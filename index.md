@@ -10,9 +10,3 @@ I obtained my M.Sc. degree with distinction in Computer Science at ETH Zürich. 
 I completed my B.Eng. degree in Electronic and Information Engineering as an outstanding graduate at Zhejiang University.
 
 I have received the Swiss Data Science Center (SDSC) fellowships, and Japan Society for the Promotion of Science (JSPS) fellowships.
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
