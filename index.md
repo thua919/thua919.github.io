@@ -9,16 +9,19 @@
       I am a PhD student in the <a href="https://cvg.ethz.ch">Computer Vision and Geometry (CVG)</a> group at <a href="https://ethz.ch/en.html">ETH Zurich</a>, 
       supervised by <a href="https://people.inf.ethz.ch/marc.pollefeys">Prof. Marc Pollefeys</a>. 
       My research interests focus on 3D vision and 3D generative models, and I collaborate closely with 
-      <a href="https://people.inf.ethz.ch/moswald">Prof. Martin R. Oswald</a> and <a href="https://zhpcui.github.io">Prof. Zhaopeng Cui</a>.
+      <a href="https://people.inf.ethz.ch/moswald">Prof. Martin R. Oswald</a> and <a href="https://zhpcui.github.io">Prof. Zhaopeng Cui</a>. 
+      My doctoral research was mainly funded by the <a href="https://www.datascience.ch">Swiss Data Science Center (SDSC)</a> fellowship.
     </p>
     <p>
-      I am currently a research intern at Google Zürich.
-      I was a research intern at Meta Zürich and was a visiting researcher at the University of Tokyo, supervised by Prof. Sato Yoichi.
+      I am currently a research intern at <a ref="https://research.google/locations/zurich">Google Zurich</a> 
+      with a topic on Generative AI and digital humans. I was a research engineer intern at 
+      <a ref="https://www.metacareers.com/v2/locations/zurich">Meta Zurich</a> with a topic on 3D object detection.
+      and Japan Society for the Promotion of Science (JSPS) fellowships.
+      was a visiting researcher at the University of Tokyo, supervised by Prof. Sato Yoichi.
     </p>
     <p>
       I obtained my M.Sc. degree with distinction in Computer Science at <a href="https://inf.ethz.ch">ETH Zurich</a>. 
       I completed my B.Eng. degree in Electronic and Information Engineering as an outstanding graduate at <a href="https://www.zju.edu.cn/english">Zhejiang University</a>. 
-      I have received the Swiss Data Science Center (SDSC) fellowships, and Japan Society for the Promotion of Science (JSPS) fellowships.
     </p>
     <p style="text-align:center">
       <a target="_blank" href="mailto:li.zuoyue@inf.ethz.ch"> Email</a> &nbsp;/&nbsp;
