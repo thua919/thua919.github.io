@@ -19,7 +19,7 @@
       <a href="https://www.metacareers.com/v2/locations/zurich">Meta Zurich</a> with a topic on 3D object detection.
       I was an overseas researcher at the <a href="https://www.iis.u-tokyo.ac.jp/en">Institute of Industrial Science (IIS)</a>, 
       <a href="https://www.u-tokyo.ac.jp/en">The University of Tokyo</a> (東京大学), 
-      supervised by <a href="https://sites.google.com/ut-vision.org/ysato">Prof. Sato Yoichi</a>, 
+      supervised by <a href="https://sites.google.com/ut-vision.org/ysato">Prof. Yoichi Sato</a>, 
       funded by <a href="https://www.jsps.go.jp/english/e-fellow">Japan Society for the Promotion of Science (JSPS)</a> fellowships.　
     </p>
     <p>
