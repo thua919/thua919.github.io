@@ -1,6 +1,6 @@
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody><tr style="padding:0px">
-  <td style="padding:2.5%;width:60%;vertical-align:middle">
+  <td style="padding:0%;width:60%;vertical-align:middle">
     <h1>
       Zuoyue Li
     </h1>
@@ -25,7 +25,7 @@
       <a href="https://www.linkedin.com/in/lizuoyue"> LinkedIn </a>
     </p>
   </td>
-  <td style="padding:2.5%;width:40%;max-width:40%">
+  <td style="padding:0%;width:40%;max-width:40%">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
   </td>
 </tr>
@@ -41,18 +41,34 @@
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody><tr style="padding:0px">
   <tr>
-    <td style="padding:2.5%;width:20%;vertical-align:middle">
+    <td style="padding:0%;width:20%;vertical-align:middle">
       <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
     </td>
-    <td style="padding:2.5%;width:80%;max-width:80%">
+    <td style="padding:0%;width:80%;max-width:80%">
       <p>12345678.</p>
     </td>
   </tr>
   <tr>
-    <td style="padding:2.5%;width:20%;vertical-align:middle">
+    <td style="padding:0%;width:20%;vertical-align:middle">
       <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
     </td>
-    <td style="padding:2.5%;width:80%;max-width:80%">
+    <td style="padding:0%;width:80%;max-width:80%">
+      <p>987654321.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:0%;width:20%;vertical-align:middle">
+      <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
+    </td>
+    <td style="padding:0%;width:80%;max-width:80%">
+      <p>12345678.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:0%;width:20%;vertical-align:middle">
+      <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
+    </td>
+    <td style="padding:0%;width:80%;max-width:80%">
       <p>987654321.</p>
     </td>
   </tr>
