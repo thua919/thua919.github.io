@@ -1,6 +1,9 @@
 ---
 ---
 
+$content-width: 900px;
+$base-font-size: 11px;
+
 @import "{{ site.theme }}";
 .site-title {color: transparent; font-size: 0;}
 .site-header {border: none;}
