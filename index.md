@@ -51,7 +51,7 @@
 </tr>
 <tr>
   <td style="padding:1%;width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>Project 1</p>
@@ -59,7 +59,7 @@
 </tr>
 <tr>
   <td style="padding:1%;width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>Project 2</p>
@@ -67,7 +67,7 @@
 </tr>
 <tr>
   <td style="padding:1%;width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>Project 3</p>
@@ -75,7 +75,7 @@
 </tr>
 <tr>
   <td style="padding:1%;width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>Project 4</p>
