@@ -8,12 +8,13 @@
     <p>P2.</p>
     <p>P3.</p>
     <p style="text-align:center">
-      <a target="_blank" href="https://mailhide.io/e/B8TyS"> Email</a> &nbsp;/&nbsp;
-      <a href="https://github.com/leonidk">GitHub</a> &nbsp;/&nbsp;
-      <a href="https://scholar.google.com/citations?user=GCYG4GoAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
-      <a href="https://www.linkedin.com/in/lkeselman"> LinkedIn </a>
+<!--       <a target="_blank" href="https://mailhide.io/e/B8TyS"> Email</a> &nbsp;/&nbsp; -->
+       <a href="https://mailhide.io/e/wLub2pQH" onclick="popup=window.open('https://mailhide.io/e/wLub2pQH','mailhidepopup','width=580,height=635'); return false;">z......@gmail.com</a>
+      <a href="https://github.com/lizuoyue">GitHub</a> &nbsp;/&nbsp;
+      <a href="https://scholar.google.com/citations?user=UPH0tNgAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+      <a href="https://www.linkedin.com/in/lizuoyue"> LinkedIn </a>
     </p>
-  </td>
+  </td>https://scholar.google.com/citations?user=
   <td style="padding:2.5%;width:40%;max-width:40%">
     <img style="width:100%;max-width:100%" alt="profile photo" src="zuoyue.jpg">
   </td>
