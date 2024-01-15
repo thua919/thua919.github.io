@@ -1,3 +1,27 @@
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<tbody><tr style="padding:0px">
+  <td style="padding:2.5%;width:60%;vertical-align:middle">
+    <h1>
+      Zuoyue Li
+    </h1>
+    <p>P1.</p>
+    <p>P2.</p>
+    <p>P3.</p>
+    <p style="text-align:center">
+      <a target="_blank" href="https://mailhide.io/e/B8TyS"> Email</a> &nbsp;/&nbsp;
+      <a href="https://github.com/leonidk">GitHub</a> &nbsp;/&nbsp;
+      <a href="https://scholar.google.com/citations?user=GCYG4GoAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+      <a href="https://www.linkedin.com/in/lkeselman"> LinkedIn </a>
+    </p>
+  </td>
+  <td style="padding:2.5%;width:40%;max-width:40%">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="zuoyue.jpg">
+  </td>
+</tr>
+</tbody>
+</table>
+
+
 I am a PhD student at ETH Zürich, supervised by Prof. Marc Pollefeys.
 My research interests focus on image/video synthesis and 3D generative models for scenes.
 I collaborate closely with Prof. Martin R. Oswald and Prof. Zhaopeng Cui.
@@ -10,5 +34,3 @@ I obtained my M.Sc. degree with distinction in Computer Science at ETH Zürich. 
 I completed my B.Eng. degree in Electronic and Information Engineering as an outstanding graduate at Zhejiang University.
 
 I have received the Swiss Data Science Center (SDSC) fellowships, and Japan Society for the Promotion of Science (JSPS) fellowships.
-
-<!-- ![](zuoyue.jpg) -->
