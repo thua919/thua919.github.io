@@ -6,17 +6,18 @@
       Zuoyue Li
     </h1>
     <p>
-      I am a PhD student at ETH Zürich, supervised by Prof. Marc Pollefeys. 
-      My research interests focus on image/video synthesis and 3D generative models for scenes. 
-      I collaborate closely with Prof. Martin R. Oswald and Prof. Zhaopeng Cui.
+      I am a PhD student in the <a href="https://cvg.ethz.ch">Computer Vision and Geometry (CVG)</a> group at <a href="https://ethz.ch/en.html">ETH Zurich</a>, 
+      supervised by <a href="https://people.inf.ethz.ch/marc.pollefeys">Prof. Marc Pollefeys</a>. 
+      My research interests focus on 3D vision and 3D generative models, and I collaborate closely with 
+      <a href="https://people.inf.ethz.ch/moswald">Prof. Martin R. Oswald</a> and <a href="https://zhpcui.github.io">Prof. Zhaopeng Cui</a>.
     </p>
     <p>
       I am currently a research intern at Google Zürich.
       I was a research intern at Meta Zürich and was a visiting researcher at the University of Tokyo, supervised by Prof. Sato Yoichi.
     </p>
     <p>
-      I obtained my M.Sc. degree with distinction in Computer Science at ETH Zürich. 
-      I completed my B.Eng. degree in Electronic and Information Engineering as an outstanding graduate at Zhejiang University. 
+      I obtained my M.Sc. degree with distinction in Computer Science at <a href="https://inf.ethz.ch">ETH Zurich</a>. 
+      I completed my B.Eng. degree in Electronic and Information Engineering as an outstanding graduate at <a href="https://www.zju.edu.cn/english">Zhejiang University</a>. 
       I have received the Swiss Data Science Center (SDSC) fellowships, and Japan Society for the Promotion of Science (JSPS) fellowships.
     </p>
     <p style="text-align:center">
