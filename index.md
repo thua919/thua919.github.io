@@ -1,7 +1,7 @@
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
 <tr style="padding:0px">
-  <td style="padding:1% 1% 1% 0%;width:70%;vertical-align:middle">
+  <td style="padding:1% 1% 1% 0%;width:64%;vertical-align:middle">
     <h1>
       Zuoyue Li
     </h1>
@@ -26,7 +26,7 @@
       <a href="https://www.linkedin.com/in/lizuoyue"> LinkedIn </a>
     </p>
   </td>
-  <td style="padding:1% 0% 1% 1%;width:30%;max-width:30%">
+  <td style="padding:1% 0% 1% 1%;width:36%;max-width:36%">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
   </td>
 </tr>
