@@ -43,35 +43,35 @@
   <h1>Research</h1>
 </tr>
 <tr>
-  <td style="padding:1% 1% 1% 0%;width:20%;vertical-align:middle">
+  <td style="padding:1%;width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
   </td>
-  <td style="padding:1% 0% 1% 1%;width:80%;max-width:80%">
-    <p>project 1</p>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>Project 1</p>
   </td>
 </tr>
 <tr>
-  <td style="padding:1% 1% 1% 0%;width:20%;vertical-align:middle">
+  <td style="padding:1%;width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
   </td>
-  <td style="padding:1% 0% 1% 1%;width:80%;max-width:80%">
-    <p>project 2</p>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>Project 2</p>
   </td>
 </tr>
 <tr>
-  <td style="padding:1% 1% 1% 0%;width:20%;vertical-align:middle">
+  <td style="padding:1%;width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
   </td>
-  <td style="padding:1% 0% 1% 1%;width:80%;max-width:80%">
-    <p>project 3</p>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>Project 3</p>
   </td>
 </tr>
 <tr>
-  <td style="padding:1% 1% 1% 0%;width:20%;vertical-align:middle">
+  <td style="padding:1%;width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
   </td>
-  <td style="padding:1% 0% 1% 1%;width:80%;max-width:80%">
-    <p>project 4</p>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>Project 4</p>
   </td>
 </tr>
 </tbody>
