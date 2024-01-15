@@ -8,8 +8,7 @@
     <p>P2.</p>
     <p>P3.</p>
     <p style="text-align:center">
-<!--       <a target="_blank" href="https://mailhide.io/e/B8TyS"> Email</a> &nbsp;/&nbsp; -->
-       <a href="https://mailhide.io/e/wLub2pQH" onclick="popup=window.open('https://mailhide.io/e/wLub2pQH','mailhidepopup','width=580,height=635'); return false;">z......@gmail.com</a>
+      <a target="_blank" href="mailto:li.zuoyue@inf.ethz.ch"> Email</a> &nbsp;/&nbsp;
       <a href="https://github.com/lizuoyue">GitHub</a> &nbsp;/&nbsp;
       <a href="https://scholar.google.com/citations?user=UPH0tNgAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
       <a href="https://www.linkedin.com/in/lizuoyue"> LinkedIn </a>
