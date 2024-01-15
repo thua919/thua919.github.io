@@ -6,15 +6,17 @@
       Zuoyue Li - 李 作越
     </h1>
     <p>
-      I am a PhD student in the <a href="https://cvg.ethz.ch">Computer Vision and Geometry (CVG)</a> group at <a href="https://ethz.ch/en.html">ETH Zurich</a>, 
+      I am a PhD student in the <a href="https://cvg.ethz.ch">Computer Vision and Geometry (CVG)</a> group 
+      at <a href="https://ethz.ch/en.html">ETH Zurich</a>, 
       supervised by <a href="https://people.inf.ethz.ch/marc.pollefeys">Prof. Marc Pollefeys</a>. 
       My research interests focus on 3D vision and 3D generative models, and I collaborate closely with 
       <a href="https://people.inf.ethz.ch/moswald">Prof. Martin R. Oswald</a> and <a href="https://zhpcui.github.io">Prof. Zhaopeng Cui</a>. 
       My doctoral research was mainly funded by the <a href="https://www.datascience.ch">Swiss Data Science Center (SDSC)</a> fellowships.　
     </p>
     <p>
-      I am currently a research intern at <a href="https://research.google/locations/zurich">Google Zurich</a> with a topic on generative AI and digital humans.
-      I was a research engineer intern at <a href="https://www.metacareers.com/v2/locations/zurich">Meta Zurich</a> with a topic on 3D object detection.
+      I am currently a research intern at <a href="https://research.google/locations/zurich">Google Zurich</a>
+      with a topic on generative AI and digital humans. I was a research engineer intern at 
+      <a href="https://www.metacareers.com/v2/locations/zurich">Meta Zurich</a> with a topic on 3D object detection.
       I was a visiting researcher at the <a href="https://www.iis.u-tokyo.ac.jp/en">Institute of Industrial Science (IIS)</a>, 
       <a href="https://www.u-tokyo.ac.jp/en">The University of Tokyo</a> (東京大学), 
       supervised by <a href="https://sites.google.com/ut-vision.org/ysato">Prof. Sato Yoichi</a>, 
