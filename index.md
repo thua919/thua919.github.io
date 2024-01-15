@@ -23,7 +23,7 @@
       funded by <a href="https://www.jsps.go.jp/english/e-fellow">Japan Society for the Promotion of Science (JSPS)</a> fellowships.　
     </p>
     <p>
-      I obtained my M.Sc. degree with distinction in Computer Science at <a href="https://inf.ethz.ch">ETH Zurich</a>. 
+      I obtained my M.Sc. degree in Computer Science with distinction at <a href="https://inf.ethz.ch">ETH Zurich</a>. 
       I completed my B.Eng. degree in Electronic and Information Engineering as an outstanding graduate at <a href="https://www.zju.edu.cn/english">Zhejiang University</a> (浙江大学).　
     </p>
     <p style="text-align:center">
