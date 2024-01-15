@@ -34,7 +34,7 @@
     </p>
   </td>
   <td style="padding:1% 0% 1% 1%;width:40%;max-width:40%">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/lizuoyue.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
   </td>
 </tr>
 </tbody>
