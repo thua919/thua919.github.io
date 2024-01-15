@@ -33,7 +33,7 @@
       <a href="https://www.linkedin.com/in/lizuoyue"> LinkedIn </a>
     </p>
   </td>
-  <td style="padding:1% 0% 1% 1%;width:36%;max-width:36%">
+  <td style="padding:2% 0% 1% 1%;width:36%;max-width:36%">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
   </td>
 </tr>
