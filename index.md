@@ -31,7 +31,32 @@
 </tr>
 </tbody>
 </table>
+
 <!--with Dr. Kripasindhu Sarkar and Dr. Thabo Beeler.-->
-<!-- with Dr. Manuel López Antequera and Dr. Yubin Kuang.-->
+<!--with Dr. Manuel López Antequera and Dr. Yubin Kuang.-->
 <!--with a master's thesis supervised by Prof. Thomas Hoffman.-->
+
+# Research
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<tbody><tr style="padding:0px">
+  <tr>
+    <td style="padding:2.5%;width:20%;vertical-align:middle">
+      <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
+    </td>
+    <td style="padding:2.5%;width:80%;max-width:80%">
+      <p>12345678.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:2.5%;width:20%;vertical-align:middle">
+      <img style="width:100%;max-width:100%" alt="profile photo" src="assets/zuoyue.jpg">
+    </td>
+    <td style="padding:2.5%;width:80%;max-width:80%">
+      <p>987654321.</p>
+    </td>
+  </tr>
+</tr>
+</tbody>
+</table>
 
