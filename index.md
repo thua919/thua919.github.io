@@ -3,7 +3,7 @@
 <tr style="padding:0px">
   <td style="padding:1% 1% 1% 0%;width:64%;vertical-align:middle">
     <h1>
-      Zuoyue Li
+      Zuoyue Li - 李 作越
     </h1>
     <p>
       I am a PhD student in the <a href="https://cvg.ethz.ch">Computer Vision and Geometry (CVG)</a> group at <a href="https://ethz.ch/en.html">ETH Zurich</a>, 
