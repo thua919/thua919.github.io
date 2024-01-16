@@ -162,6 +162,26 @@
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
+      <p>
+      <strong>Spatio-Temporal Perturbations for Video Attribution</strong>
+      <br>
+        <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
+        <a href="https://wei-min.wang">Weimin Wang</a>, 
+        <strong>Zuoyue Li</strong>, 
+        <a href="https://hyf015.github.io">Yifei Huang</a>, 
+        <a href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>. 
+      <br>
+      TCSVT 2021
+      <br>
+      Some description.
+    </p>
+  </td>
+</tr>
+<tr>
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+  </td>
+  <td style="padding:1%;width:80%;max-width:80%">
     <p>
       <strong>Towards Visually Explaining Video Understanding Networks with Perturbation</strong>
       <br>
@@ -169,7 +189,7 @@
         <a href="https://wei-min.wang">Weimin Wang</a>, 
         <strong>Zuoyue Li</strong>, 
         <a href="https://hyf015.github.io">Yifei Huang</a>, 
-        <a href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>.
+        <a href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>. 
       <br>
       WACV 2021
       <br>
