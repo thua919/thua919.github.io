@@ -44,11 +44,12 @@
 <!--with Dr. Manuel López Antequera and Dr. Yubin Kuang.-->
 <!--with a master's thesis supervised by Prof. Thomas Hoffman.-->
 
+<h1>Research</h1>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
-<tr style="padding:0px">  
+<!-- <tr style="padding:0px">  
   <h1>Research</h1>
-</tr>
+</tr> -->
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
