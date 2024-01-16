@@ -274,7 +274,7 @@
 CAB G 85.2<br>
 Universitätstrasse 6<br>
 8092 Zürich<br>
-Switzerland<be>
+Switzerland
 </p>
 
 <p align="right">Last update: 16 Jan 2024</p>
