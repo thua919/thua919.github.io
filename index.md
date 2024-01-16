@@ -86,7 +86,18 @@
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
-    <p>Project 4</p>
+    <p>
+      <strong>Topological Map Extraction from Overhead Images</strong>
+      <br>
+        <strong>Zuoyue Li</strong>, 
+        <a href="https://www.ics.uzh.ch/en/research/research-groups/Jan-Dirk-Wegner.html">Jan Dirk Wegner</a>, 
+        <a href="https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi">Aurelien Lucchi</a>. 
+      <br>
+      ICCV 2019
+      <br>
+      Some description.
+    </p>
+    
   </td>
 </tr>
 </tbody>
