@@ -27,7 +27,7 @@
       I completed my B.Eng. degree in Electronic and Information Engineering as an outstanding graduate at <a href="https://www.zju.edu.cn/english">Zhejiang University</a> (浙江大学).　
     </p>
     <p style="text-align:center">
-      <a target="_blank" href="mailto:li.zuoyue@inf.ethz.ch"> Email</a> &nbsp;/&nbsp;
+      <a href="mailto:li.zuoyue@inf.ethz.ch"> Email</a> &nbsp;/&nbsp;
       <a href="https://github.com/lizuoyue">GitHub</a> &nbsp;/&nbsp;
       <a href="https://scholar.google.com/citations?user=UPH0tNgAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
       <a href="https://www.linkedin.com/in/lizuoyue"> LinkedIn </a>
