@@ -96,6 +96,30 @@
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
+      <p>
+      <strong>Factorized and Controllable Neural Re-Rendering of Outdoor Scene for Photo Extrapolation</strong>
+      <br>
+        <a href="https://github.com/BoMingZhao">Boming Zhao</a>, 
+        <a href="https://ybbbbt.com">Bangbang Yang</a>, 
+        Zhenyang Li, 
+        <strong>Zuoyue Li</strong>, 
+        Guofeng Zhang, 
+        Jiashu Zhao, 
+        Dawei Yin, 
+        <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a href="http://www.cad.zju.edu.cn/home/bao">Hujun Bao</a>. 
+      <br>
+      ACM Multimedia 2022
+      <br>
+      Some description.
+    </p>
+  </td>
+</tr>
+<tr>
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+  </td>
+  <td style="padding:1%;width:80%;max-width:80%">
     <p>
       <strong>NVS-MonoDepth: Improving Monocular Depth Prediction with Novel View Synthesis</strong>
       <br>
