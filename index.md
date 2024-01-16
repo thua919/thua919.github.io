@@ -242,29 +242,39 @@
 
 
 <h1>Awards</h1>
+<p>
 1.
 <br>
 2.
  <br>
 3.
+</p>
 
 <h1>Academic Service</h1>
+<p>
 1.
 <br>
 2.
  <br>
 3.
+</p>
 
 <h1>Teaching</h1>
+<p>
 1.
 <br>
 2.
  <br>
 3.
+</p>
 
 <h1>Contact</h1>
+<p>
 <strong>Zuoyue Li</strong><br>
 CAB G 85.2<br>
 Universitätstrasse 6<br>
 8092 Zürich<br>
-Switzerland<br>
+Switzerland<be>
+</p>
+
+<p align="right">Last update: 16 Jan 2024</p>
