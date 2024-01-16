@@ -105,7 +105,7 @@
         <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
-      CVPR 2020
+      ICCV 2021
       <br>
       *Equal contribution.
     </p>
