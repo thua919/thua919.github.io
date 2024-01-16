@@ -98,7 +98,7 @@
     <p>
       <strong>Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image</strong>
       <br>
-        <strong>Zuoyue Li</strong>*, 
+        <strong>Zuoyue Li</strong>, 
         <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
         <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
         <a href="https://u.osu.edu/qin.324">Rongjun Qin</a>, 
@@ -107,7 +107,7 @@
       <br>
       ICCV 2021
       <br>
-      *Equal contribution.
+      Some description.
     </p>
   </td>
 </tr>
@@ -128,7 +128,7 @@
       <br>
       CVPR 2020
       <br>
-      *Equal contribution.
+      *Equal contribution. Some description.
     </p>
   </td>
 </tr>
