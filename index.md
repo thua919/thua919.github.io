@@ -263,8 +263,8 @@
 3.
 
 <h1>Contact</h1>
-1.
-<br>
-2.
- <br>
-3.
+<strong>Zuoyue Li</strong><br>
+CAB G 85.2<br>
+Universitätstrasse 6<br>
+8092 Zürich<br>
+Switzerland<br>
