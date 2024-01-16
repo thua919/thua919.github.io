@@ -50,15 +50,23 @@
   <h1>Research</h1>
 </tr>
 <tr>
-  <td style="padding:1%;width:20%;vertical-align:middle">
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
-    <p>Project 1</p>
+    <p>
+      <strong>3D Urban Scene Generation from Satellite Images with Diffusion</strong>
+      <br>
+      <strong>Zuoyue Li</strong>, Zhenqiang Li, Zhaopeng Cui, Marc Pollefeys, Martin R. Oswald.
+      <br>
+      arXiv, 2024
+      <br>
+      Some description.
+    </p>
   </td>
 </tr>
 <tr>
-  <td style="padding:1%;width:20%;vertical-align:middle">
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
@@ -66,7 +74,7 @@
   </td>
 </tr>
 <tr>
-  <td style="padding:1%;width:20%;vertical-align:middle">
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
@@ -74,7 +82,7 @@
   </td>
 </tr>
 <tr>
-  <td style="padding:1%;width:20%;vertical-align:middle">
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
