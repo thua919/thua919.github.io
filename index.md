@@ -74,7 +74,20 @@
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
-    <p>Project 2</p>
+      <p>
+      <strong>CompNVS: Novel View Synthesis with Scene Completion</strong>
+      <br>
+        <strong>Zuoyue Li</strong>, 
+        <a href="https://scholar.google.com/citations?user=siv1RXUAAAAJ>Tianxing Fan</a>, 
+        <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
+        <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
+        <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
+      <br>
+      ECCV 2022
+      <br>
+      Some description.
+    </p>
   </td>
 </tr>
 <tr>
