@@ -106,7 +106,7 @@
         <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
-      ICCV 2021
+      3DV 2021
       <br>
       Some description.
     </p>
