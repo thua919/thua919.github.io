@@ -81,6 +81,7 @@
         <a href="https://scholar.google.com/citations?user=siv1RXUAAAAJ">Tianxing Fan</a>, 
         <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
         <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>, 
         <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
@@ -106,6 +107,26 @@
         <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
       ICCV 2021
+      <br>
+      Some description.
+    </p>
+  </td>
+</tr>
+<tr>
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+  </td>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>
+      <strong>Towards Visually Explaining Video Understanding Networks with Perturbation</strong>
+      <br>
+        <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
+        <a href="https://wei-min.wang">Weimin Wang</a>, 
+        <strong>Zuoyue Li</strong>, 
+        <a href="https://hyf015.github.io">Yifei Huang</a>, 
+        <a href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>.
+      <br>
+      WACV 2021
       <br>
       Some description.
     </p>
