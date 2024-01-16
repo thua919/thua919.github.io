@@ -78,7 +78,7 @@
       <strong>CompNVS: Novel View Synthesis with Scene Completion</strong>
       <br>
         <strong>Zuoyue Li</strong>, 
-        <a href="https://scholar.google.com/citations?user=siv1RXUAAAAJ>Tianxing Fan</a>, 
+        <a href="https://scholar.google.com/citations?user=siv1RXUAAAAJ">Tianxing Fan</a>, 
         <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
         <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
         <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
