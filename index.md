@@ -98,16 +98,16 @@
     <p>
       <strong>Geometry-Aware Satellite-to-Ground Image Synthesis for Urban Areas</strong>
       <br>
-        <a href="https://xiaohulugo.github.io">Xiaohu Lu<sup></sup></a>, 
-        <strong>Zuoyue Li</strong>, 
+        <a href="https://xiaohulugo.github.io">Xiaohu Lu</a><sup>*</sup>, 
+        <strong>Zuoyue Li</strong><sup>*</sup>, 
         <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
         <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>, 
         <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a href="https://u.osu.edu/qin.324">Rongjun Qin</a>. 
       <br>
-      CVPR 2021
+      CVPR 2020
       <br>
-      Equal contribution.
+      <sup>*</sup>Equal contribution.
     </p>
   </td>
 </tr>
