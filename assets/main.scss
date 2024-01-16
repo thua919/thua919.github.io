@@ -10,3 +10,11 @@ $spacing-unit: 28px;
 .site-header {border: none;}
 .site-footer {display: none;}
 table, table td, table th {border: 0px transparent;}
+.site-nav {
+  @include media-query($on-palm) {
+    label[for="nav-trigger"] {display: none;}
+    .menu-icon {display: none;}
+    input:checked ~ .trigger {display: none;}
+    .page-link {display: none;}
+  }
+}
