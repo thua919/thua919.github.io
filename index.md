@@ -239,3 +239,31 @@
 </tbody>
 </table>
 
+
+<h1>Awards</h1>
+1.
+<br>
+2.
+ <br>
+3.
+
+<h1>Academic Service</h1>
+1.
+<br>
+2.
+ <br>
+3.
+
+<h1>Teaching</h1>
+1.
+<br>
+2.
+ <br>
+3.
+
+<h1>Contact</h1>
+1.
+<br>
+2.
+ <br>
+3.
