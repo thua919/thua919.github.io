@@ -51,13 +51,17 @@
 </tr>
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
       <strong>3D Urban Scene Generation from Satellite Images with Diffusion</strong>
       <br>
-      <strong>Zuoyue Li</strong>, Zhenqiang Li, Zhaopeng Cui, Marc Pollefeys, Martin R. Oswald.
+        <strong>Zuoyue Li</strong>, 
+        <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
+        <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
+        <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
       arXiv, 2024
       <br>
@@ -67,7 +71,7 @@
 </tr>
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>Project 2</p>
@@ -75,15 +79,28 @@
 </tr>
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
-    <p>Project 3</p>
+    <p>
+      <strong>Geometry-Aware Satellite-to-Ground Image Synthesis for Urban Areas</strong>
+      <br>
+        <a href="https://xiaohulugo.github.io">Xiaohu Lu</a>, 
+        <strong>Zuoyue Li</strong>, 
+        <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>, 
+        <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
+        <a href="https://u.osu.edu/qin.324">Rongjun Qin</a>. 
+      <br>
+      CVPR 2021
+      <br>
+      Equal contribution.
+    </p>
   </td>
 </tr>
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
@@ -97,7 +114,6 @@
       <br>
       Some description.
     </p>
-    
   </td>
 </tr>
 </tbody>
