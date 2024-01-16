@@ -96,10 +96,31 @@
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
+      <strong>Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image</strong>
+      <br>
+        <strong>Zuoyue Li</strong>*, 
+        <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
+        <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a href="https://u.osu.edu/qin.324">Rongjun Qin</a>, 
+        <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
+        <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
+      <br>
+      CVPR 2020
+      <br>
+      *Equal contribution.
+    </p>
+  </td>
+</tr>
+<tr>
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+  </td>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>
       <strong>Geometry-Aware Satellite-to-Ground Image Synthesis for Urban Areas</strong>
       <br>
-        <a href="https://xiaohulugo.github.io">Xiaohu Lu</a><sup>*</sup>, 
-        <strong>Zuoyue Li</strong><sup>*</sup>, 
+        <a href="https://xiaohulugo.github.io">Xiaohu Lu</a>*, 
+        <strong>Zuoyue Li</strong>*, 
         <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
         <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>, 
         <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
@@ -107,7 +128,7 @@
       <br>
       CVPR 2020
       <br>
-      <sup>*</sup>Equal contribution.
+      *Equal contribution.
     </p>
   </td>
 </tr>
