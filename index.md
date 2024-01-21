@@ -278,4 +278,4 @@ Universitätstrasse 6<br>
 Switzerland
 </p>
 
-<p align="right">Last update: 16 Jan 2024</p>
+<p align="right">Last update: 21 Jan 2024</p>
