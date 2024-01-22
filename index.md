@@ -305,14 +305,15 @@ Switzerland
     if (targetOpacity < currentOpacity) {
       stepSize = -stepSize;
     }
-    console.log("Step size");
+    console.log("Step size and num steps");
     console.log(stepSize);
+    console.log(numSteps);
     var i = 0;
     var k = window.setInterval(function() {
       if (i < (numSteps - 1)) {
-        elm.style.opacity = elm.style.opacity + stepSize;
-        console.log(elm.style.opacity);
         i++;
+        elm.style.opacity = currentOpacity + i * stepSize;
+        console.log(elm.style.opacity);
       } else {
         elm.style.opacity = targetOpacity;
         console.log(elm.style.opacity);
