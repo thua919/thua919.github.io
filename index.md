@@ -59,11 +59,11 @@
     </video>
     <script type="text/javascript">
       function sat2scene_start() {
-        setOpacity("sat2scene_video", 0.99, 0.12, 100);
+        setOpacity("sat2scene_video", 1.0, 0.1, 50);
         // document.getElementById('sat2scene_video').style.opacity = "1";
       }
       function sat2scene_stop() {
-        setOpacity("sat2scene_video", 0.01, 0.12, 100);
+        setOpacity("sat2scene_video", 1.0, 0.1, 50);
         // document.getElementById('sat2scene_video').style.opacity = "0";
       }
     </script>
@@ -277,32 +277,44 @@
 </p>
 
 <h1>Teaching</h1>
+<!--
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<tbody>
+<tr style="padding:0px">
+  <td style="padding:0%;width:80%;vertical-align:middle">
+  </td>
+  <td style="padding:0%;width:20%;max-width:20%">
+  </td>
+</tr>
+</tbody>
+</table>
+-->
 <p>
-Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2024
+Spring 2024, Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
 <br>
-Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173300&semkez=2023W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich, Autumn 2023
+Autumn 2023, Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173300&semkez=2023W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich
 <br>
-Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023S&lerneinheitId=168741&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2023
+Spring 2023, Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023S&lerneinheitId=168741&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
 <br>
-Teaching Assistant, 263-5904-00L Deep Learning for Computer Vision: Seminal Work, ETH Zürich, Spring 2023
+Spring 2023, Teaching Assistant, 263-5904-00L Deep Learning for Computer Vision: Seminal Work, ETH Zürich
 <br>
-Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162913&semkez=2022W&lang=en">252-0847-00L Computer Science</a>, ETH Zürich, Autumn 2022
+Autumn 2022, Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162913&semkez=2022W&lang=en">252-0847-00L Computer Science</a>, ETH Zürich
 <br>
-Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022S&lerneinheitId=158871&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2022
+Spring 2022, Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022S&lerneinheitId=158871&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
 <br>
-Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021S&lerneinheitId=150524&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2021
+Spring 2021, Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021S&lerneinheitId=150524&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
 <br>
-Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=140478&semkez=2020W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich, Autumn 2020
+Autumn 2020, Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=140478&semkez=2020W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich
 <br>
-Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136431&semkez=2020S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2020
+Spring 2020, Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136431&semkez=2020S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
 <br>
-Teaching Assistant, 263-5904-00L Deep Learning for Computer Vision: Seminal Work, ETH Zürich, Spring 2020
+Spring 2020, Teaching Assistant, 263-5904-00L Deep Learning for Computer Vision: Seminal Work, ETH Zürich
 <br>
-Teaching Assistant, <a href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=132284&semkez=2019W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich, Autumn 2019
+Autumn 2019, Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=132284&semkez=2019W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich
 <br>
-Teaching Assistant, <a href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=128451&semkez=2019S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2019
+Spring 2019, Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=128451&semkez=2019S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
 <br>
-Teaching Assistant, 263-5904-00L Deep Learning for Computer Vision: Seminal Work, ETH Zürich, Spring 2019
+Spring 2019, Teaching Assistant, 263-5904-00L Deep Learning for Computer Vision: Seminal Work, ETH Zürich
 </p>
 
 <h1>Contact</h1>
@@ -325,18 +337,13 @@ Switzerland
     if (targetOpacity < currentOpacity) {
       stepSize = -stepSize;
     }
-    console.log("Step size and num steps");
-    console.log(stepSize);
-    console.log(numSteps);
     var i = 0;
     var k = window.setInterval(function() {
       if (i < (numSteps - 1)) {
         i++;
         elm.style.opacity = currentOpacity + i * stepSize;
-        console.log(elm.style.opacity);
       } else {
         elm.style.opacity = targetOpacity;
-        console.log(elm.style.opacity);
         clearInterval(k);
       }
     }, stepTimeMs);
