@@ -20,7 +20,8 @@ theme: minima
 # add a line comment on "theme: minima" above.
 # remote_theme: jekyll/minima
 
-# plugins:
+plugins:
+  - jekyll-target-blank
 #   - jekyll-feed
 #   - jekyll-seo-tag
 
