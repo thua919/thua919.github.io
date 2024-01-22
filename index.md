@@ -278,11 +278,27 @@
 
 <h1>Teaching</h1>
 <p>
-1.
+Teaching Assistant, <a href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2024
 <br>
-2.
- <br>
-3.
+Teaching Assistant, <a href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173300&semkez=2023W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich, Autumn 2023
+<br>
+Teaching Assistant, Spring 2023
+<br>
+Teaching Assistant, <a href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162913&semkez=2022W&lang=en">252-0847-00L Computer Science</a>, ETH Zürich, Autumn 2022
+<br>
+Teaching Assistant, Spring 2022
+<br>
+Teaching Assistant, Autumn 2021
+<br>
+Teaching Assistant, Spring 2021
+<br>
+Teaching Assistant, <a href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=140478&semkez=2020W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich, Autumn 2020
+<br>
+Teaching Assistant, Spring 2020
+<br>
+Teaching Assistant, <a href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=132284&semkez=2019W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich, Autumn 2019
+<br>
+Teaching Assistant, <a href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=128451&semkez=2019S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2019
 </p>
 
 <h1>Contact</h1>
