@@ -60,11 +60,9 @@
     <script type="text/javascript">
       function sat2scene_start() {
         setOpacity("sat2scene_video", 1.0, 0.1, 50);
-        // document.getElementById('sat2scene_video').style.opacity = "1";
       }
       function sat2scene_stop() {
         setOpacity("sat2scene_video", 0.0, 0.1, 50);
-        // document.getElementById('sat2scene_video').style.opacity = "0";
       }
     </script>
   </td>
@@ -260,21 +258,21 @@
 
 <h1>Awards</h1>
 <p>
-Outstanding reviewer, <a target="_blank" href="https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers">CVPR 2023</a>
+Outstanding Reviewer, <a target="_blank" href="https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers">CVPR 2023</a>
 <br>
-Outstanding reviewer, <a target="_blank" href="https://eccv2022.ecva.net/program/outstanding-reviewers">ECCV 2022</a>
+Outstanding Reviewer, <a target="_blank" href="https://eccv2022.ecva.net/program/outstanding-reviewers">ECCV 2022</a>
 <br>
-National scholarship for outstanding students abroad, 2022
+National Scholarship for Outstanding Students Abroad, 2022
 <br>
 <a target="_blank" href="https://www.jsps.go.jp/english/e-fellow/e-fellow-sp/outline_eth.html">Japan Society for the Promotion of Science (JSPS) Fellowships for Research in Japan</a>, 2020
 <br>
 <a target="_blank" href="https://www.datascience.ch/phd-fellows">Swiss Data Science Center (SDSC) Fellowship</a>, 2019
 <br>
-Graduate with distinction (M.Sc.) at ETH Zürich, 2018
+Graduate with Distinction (M.Sc.) at ETH Zürich, 2018
 <br>
-Second runner-up (student teams) at Helvetic Coding Contest, 2017
+Second Runner-up (student teams) at Helvetic Coding Contest, 2017
 <br>
-Outstanding graduates at Zhejiang University, 2015
+Outstanding Graduates at Zhejiang University, 2015
 </p>
 
 <h1>Academic Service</h1>
