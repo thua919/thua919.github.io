@@ -65,8 +65,8 @@
         <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
-      arXiv, 2024. | 
-      <a href="https://arxiv.org/abs/2401.10786">Paper</a>.
+      arXiv, 2024 | 
+      <a href="https://arxiv.org/abs/2401.10786">Paper</a>
       <br>
       Some description.
     </p>
