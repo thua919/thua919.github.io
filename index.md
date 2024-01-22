@@ -300,7 +300,7 @@ Switzerland
   function setOpacity(elmId, targetOpacity, stepSize) {
     var stepTimeMs = 100;
     var elm = document.getElementById(elmId)[0];
-    var currentOpacity = $("#".concat(elmId)).css("opacity");
+    var currentOpacity = window.getComputedStyle(elm).getPropertyValue("opacity");
     var numSteps = Math.ceil(Math.abs(targetOpacity - currentOpacity) / stepSize);
     stepSize = Math.abs(stepSize)
     if (targetOpacity < currentOpacity) {
