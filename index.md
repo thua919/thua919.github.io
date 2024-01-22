@@ -117,15 +117,15 @@
       <br>
         <a href="https://github.com/BoMingZhao">Boming Zhao</a>, 
         <a href="https://ybbbbt.com">Bangbang Yang</a>, 
-        Zhenyang Li, 
+        <a href="https://zhenyangli.github.io">Zhenyang Li</a>, 
         <strong>Zuoyue Li</strong>, 
-        Guofeng Zhang, 
-        Jiashu Zhao, 
-        Dawei Yin, 
+        <a href="http://www.cad.zju.edu.cn/home/gfzhang">Guofeng Zhang</a>, 
+        <a href="https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/jiashu-zhao/index.html">Jiashu Zhao</a>, 
+        <a href="https://www.yindawei.com">Dawei Yin</a>, 
         <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
         <a href="http://www.cad.zju.edu.cn/home/bao">Hujun Bao</a>. 
       <br>
-      ACM Multimedia 2022 (Oral) | 
+      ACM Multimedia 2022 (<strong>Oral</strong>) | 
       <a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> | 
       <a href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a>
       <br>
