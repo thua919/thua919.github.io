@@ -328,7 +328,7 @@
 
 <tr style="padding:0px">
   <td style="padding:0%;width:85%;vertical-align:middle">
-    Teaching Assistant, 263-5904-00L Deep Learning for Computer Vision: Seminal Work, ETH Zürich
+    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=157422&semkez=2022S&lang=en">263-5904-00L Deep Learning for Computer Vision: Seminal Work</a>, ETH Zürich
   </td>
   <td style="padding:0%;width:15%;max-width:15%;align:right">
     Spring 2022
@@ -373,7 +373,7 @@
 
 <tr style="padding:0px">
   <td style="padding:0%;width:85%;vertical-align:middle">
-    Teaching Assistant, <a target="_blank" href="263-5904-00L Deep Learning for Computer Vision: Seminal Work, ETH Zürich
+    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=134908&semkez=2020S&lang=en">263-5904-00L Deep Learning for Computer Vision: Seminal Work</a>, ETH Zürich
   </td>
   <td style="padding:0%;width:15%;max-width:15%;align:right">
     Spring 2020
