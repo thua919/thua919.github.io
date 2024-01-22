@@ -299,8 +299,8 @@ Switzerland
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize) {
     var stepTimeMs = 100;
-    var elm = document.getElementById(elmId)[0];
-    var currentOpacity = window.getComputedStyle(elm).getPropertyValue("opacity");
+    var elm = document.getElementById(elmId);
+    var currentOpacity = elm.style.opacity; // window.getComputedStyle(elm).getPropertyValue("opacity");
     var numSteps = Math.ceil(Math.abs(targetOpacity - currentOpacity) / stepSize);
     stepSize = Math.abs(stepSize)
     if (targetOpacity < currentOpacity) {
