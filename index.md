@@ -306,7 +306,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2024
   </td>
 </tr>
@@ -315,7 +315,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173300&semkez=2023W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Autumn 2023
   </td>
 </tr>
@@ -324,7 +324,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167257&semkez=2023S&lang=en">263-5904-00L Deep Learning for Computer Vision: Seminal Work</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2023
   </td>
 </tr>
@@ -333,7 +333,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023S&lerneinheitId=168741&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2023
   </td>
 </tr>
@@ -342,7 +342,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162913&semkez=2022W&lang=en">252-0847-00L Computer Science</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Autumn 2022
   </td>
 </tr>
@@ -351,7 +351,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=157422&semkez=2022S&lang=en">263-5904-00L Deep Learning for Computer Vision: Seminal Work</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2022
   </td>
 </tr>
@@ -360,7 +360,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022S&lerneinheitId=158871&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2022
   </td>
 </tr>
@@ -369,7 +369,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021S&lerneinheitId=150524&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2021
   </td>
 </tr>
@@ -378,7 +378,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=140478&semkez=2020W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Autumn 2020
   </td>
 </tr>
@@ -387,7 +387,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136431&semkez=2020S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2020
   </td>
 </tr>
@@ -396,7 +396,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=134908&semkez=2020S&lang=en">263-5904-00L Deep Learning for Computer Vision: Seminal Work</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2020
   </td>
 </tr>
@@ -405,7 +405,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=132284&semkez=2019W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Autumn 2019
   </td>
 </tr>
@@ -414,7 +414,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=128451&semkez=2019S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2019
   </td>
 </tr>
@@ -423,7 +423,7 @@ Outstanding Graduates at Zhejiang University, 2015
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=126900&semkez=2019S&lang=en">263-5904-00L Deep Learning for Computer Vision: Seminal Work</a>, ETH Zürich
   </td>
-  <td style="padding:0%;width:15%;max-width:15%;align:right">
+  <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2019
   </td>
 </tr>
