@@ -284,21 +284,25 @@ Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsv
 <br>
 Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023S&lerneinheitId=168741&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2023
 <br>
+Teaching Assistant, 263-5904-00L Deep Learning for Computer Vision: Seminal Work, ETH Zürich, Spring 2023
+<br>
 Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162913&semkez=2022W&lang=en">252-0847-00L Computer Science</a>, ETH Zürich, Autumn 2022
 <br>
 Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022S&lerneinheitId=158871&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2022
-<br>
-Teaching Assistant, Autumn 2021
 <br>
 Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021S&lerneinheitId=150524&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2021
 <br>
 Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=140478&semkez=2020W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich, Autumn 2020
 <br>
-Teaching Assistant, Spring 2020
+Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=136431&semkez=2020S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2020
+<br>
+Teaching Assistant, 263-5904-00L Deep Learning for Computer Vision: Seminal Work, ETH Zürich, Spring 2020
 <br>
 Teaching Assistant, <a href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=132284&semkez=2019W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich, Autumn 2019
 <br>
 Teaching Assistant, <a href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=128451&semkez=2019S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich, Spring 2019
+<br>
+Teaching Assistant, 263-5904-00L Deep Learning for Computer Vision: Seminal Work, ETH Zürich, Spring 2019
 </p>
 
 <h1>Contact</h1>
