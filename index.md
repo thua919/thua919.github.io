@@ -83,6 +83,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
@@ -99,12 +100,14 @@
         <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
-      ECCV 2022
+      ECCV 2022 &nbsp;/&nbsp; 
+      <a target="_blank" href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610441.pdf">Paper</a>
       <br>
       Some description.
     </p>
   </td>
 </tr>
+
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
@@ -131,6 +134,7 @@
     </p>
   </td>
 </tr>
+
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
@@ -146,12 +150,14 @@
         <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
-      3DV 2021
+      3DV 2021 &nbsp;/&nbsp; 
+      <a target="_blank" href="https://ieeexplore.ieee.org/document/9665820">Paper</a>
       <br>
       Some description.
     </p>
   </td>
 </tr>
+
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
@@ -167,12 +173,14 @@
         <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
-      ICCV 2021
+      ICCV 2021 &nbsp;/&nbsp; 
+      <a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Sat2Vid_Street-View_Panoramic_Video_Synthesis_From_a_Single_Satellite_Image_ICCV_2021_paper.pdf">Paper</a>
       <br>
       Some description.
     </p>
   </td>
 </tr>
+
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
@@ -187,12 +195,14 @@
         <a target="_blank" href="https://hyf015.github.io">Yifei Huang</a>, 
         <a target="_blank" href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>. 
       <br>
-      TCSVT 2021
+      TCSVT 2021 &nbsp;/&nbsp; 
+      <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9435317">Paper</a>
       <br>
       Some description.
     </p>
   </td>
 </tr>
+
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
@@ -207,12 +217,14 @@
         <a target="_blank" href="https://hyf015.github.io">Yifei Huang</a>, 
         <a target="_blank" href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>. 
       <br>
-      WACV 2021
+      WACV 2021 &nbsp;/&nbsp; 
+      <a target="_blank" href="https://openaccess.thecvf.com/content/WACV2021/papers/Li_Towards_Visually_Explaining_Video_Understanding_Networks_With_Perturbation_WACV_2021_paper.pdf">Paper</a>
       <br>
       Some description.
     </p>
   </td>
 </tr>
+
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
@@ -228,12 +240,14 @@
         <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a target="_blank" href="https://u.osu.edu/qin.324">Rongjun Qin</a>. 
       <br>
-      CVPR 2020
+      *Equal contribution. CVPR 2020 &nbsp;/&nbsp; 
+      <a target="_blank" href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Geometry-Aware_Satellite-to-Ground_Image_Synthesis_for_Urban_Areas_CVPR_2020_paper.pdf">Paper</a>
       <br>
-      *Equal contribution. Some description.
+      Some description.
     </p>
   </td>
 </tr>
+
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
@@ -246,7 +260,8 @@
         <a target="_blank" href="https://www.ics.uzh.ch/en/research/research-groups/Jan-Dirk-Wegner.html">Jan Dirk Wegner</a>, 
         <a target="_blank" href="https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi">Aurelien Lucchi</a>. 
       <br>
-      ICCV 2019
+      ICCV 2019 &nbsp;/&nbsp; 
+      <a target="_blank" href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Topological_Map_Extraction_From_Overhead_Images_ICCV_2019_paper.pdf">Paper</a>
       <br>
       Some description.
     </p>
