@@ -277,20 +277,78 @@
 </p>
 
 <h1>Teaching</h1>
-<!--
+
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
 <tr style="padding:0px">
   <td style="padding:0%;width:80%;vertical-align:middle">
+    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
   </td>
   <td style="padding:0%;width:20%;max-width:20%">
+    Spring 2024
+  </td>
+</tr>
+<tr style="padding:0px">
+  <td style="padding:0%;width:80%;vertical-align:middle">
+    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
+  </td>
+  <td style="padding:0%;width:20%;max-width:20%">
+    Spring 2024
+  </td>
+</tr>
+<tr style="padding:0px">
+  <td style="padding:0%;width:80%;vertical-align:middle">
+    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
+  </td>
+  <td style="padding:0%;width:20%;max-width:20%">
+    Spring 2024
+  </td>
+</tr>
+<tr style="padding:0px">
+  <td style="padding:0%;width:80%;vertical-align:middle">
+    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
+  </td>
+  <td style="padding:0%;width:20%;max-width:20%">
+    Spring 2024
+  </td>
+</tr>
+<tr style="padding:0px">
+  <td style="padding:0%;width:80%;vertical-align:middle">
+    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
+  </td>
+  <td style="padding:0%;width:20%;max-width:20%">
+    Spring 2024
+  </td>
+</tr>
+<tr style="padding:0px">
+  <td style="padding:0%;width:80%;vertical-align:middle">
+    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
+  </td>
+  <td style="padding:0%;width:20%;max-width:20%">
+    Spring 2024
+  </td>
+</tr>
+<tr style="padding:0px">
+  <td style="padding:0%;width:80%;vertical-align:middle">
+    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
+  </td>
+  <td style="padding:0%;width:20%;max-width:20%">
+    Spring 2024
+  </td>
+</tr>
+<tr style="padding:0px">
+  <td style="padding:0%;width:80%;vertical-align:middle">
+    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
+  </td>
+  <td style="padding:0%;width:20%;max-width:20%">
+    Spring 2024
   </td>
 </tr>
 </tbody>
 </table>
--->
-<p>
-Spring 2024, Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
+
+
+
 <br>
 Autumn 2023, Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173300&semkez=2023W&lang=en">263-5902-00L Computer Vision</a>, ETH Zürich
 <br>
