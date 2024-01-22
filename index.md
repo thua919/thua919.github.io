@@ -264,6 +264,8 @@ Outstanding reviewer, <a target="_blank" href="https://cvpr2023.thecvf.com/Confe
 <br>
 Outstanding reviewer, <a target="_blank" href="https://eccv2022.ecva.net/program/outstanding-reviewers">ECCV 2022</a>
 <br>
+National scholarship for outstanding students abroad, 2022
+<br>
 <a target="_blank" href="https://www.jsps.go.jp/english/e-fellow/e-fellow-sp/outline_eth.html">Japan Society for the Promotion of Science (JSPS) Fellowships for Research in Japan</a>, 2020
 <br>
 <a target="_blank" href="https://www.datascience.ch/phd-fellows">Swiss Data Science Center (SDSC) Fellowship</a>, 2019
