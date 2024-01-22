@@ -260,20 +260,26 @@
 
 <h1>Awards</h1>
 <p>
-1.
+Outstanding reviewer, <a target="_blank" href="https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers">CVPR 2023</a>
 <br>
-2.
- <br>
-3.
+Outstanding reviewer, <a target="_blank" href="https://eccv2022.ecva.net/program/outstanding-reviewers">ECCV 2022</a>
+<br>
+<a target="_blank" href="https://www.jsps.go.jp/english/e-fellow/e-fellow-sp/outline_eth.html">Japan Society for the Promotion of Science (JSPS) Fellowships for Research in Japan</a>, 2020
+<br>
+<a target="_blank" href="https://www.datascience.ch/phd-fellows">Swiss Data Science Center (SDSC) Fellowship</a>, 2019
+<br>
+Graduate with distinction (M.Sc.) at ETH Zürich, 2018
+<br>
+Second runner-up (student teams) at Helvetic Coding Contest, 2017
+<br>
+Outstanding graduates at Zhejiang University, 2015
 </p>
 
 <h1>Academic Service</h1>
 <p>
-1.
+<strong>Conference Reviewer</strong>: CVPR, ICCV, ECCV, NeurIPS, WACV.
 <br>
-2.
- <br>
-3.
+<strong>Journal Reviewer</strong>: TPAMI, TGRS.
 </p>
 
 <h1>Teaching</h1>
