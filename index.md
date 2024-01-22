@@ -300,7 +300,7 @@ Switzerland
   function setOpacity(elmId, targetOpacity, stepSize) {
     var stepTimeMs = 100;
     var elm = document.getElementById(elmId)[0];
-    var currentOpacity = elm.style.opacity;
+    var currentOpacity = $("#".concat(elmId)).css("opacity");
     var numSteps = Math.ceil(Math.abs(targetOpacity - currentOpacity) / stepSize);
     stepSize = Math.abs(stepSize)
     if (targetOpacity < currentOpacity) {
@@ -309,8 +309,8 @@ Switzerland
     var i = 0;
     var k = window.setInterval(function() {
       if (i < (numSteps - 1)) {
-        elm.style.opacity = elm.style.opacity + stepSize;
         i++;
+        elm.style.opacity = currentOpacity + i * stepSize;
       } else {
         elm.style.opacity = targetOpacity;
         clearInterval(k);
