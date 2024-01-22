@@ -53,17 +53,18 @@
 </tr> -->
 <tr onmouseout="sat2scene_stop()" onmouseover="sat2scene_start()">
   <td style="position:relative;padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <video id="sat2scene_video" style="line-height:0;width:100%;max-width:100%;opacity:0" muted autoplay loop>
+    <img id="sat2scene_teaser" style="width:100%;max-width:100%;opacity:1" alt="sat2scene teaser" src="assets/square_placeholder.jpg">
+    <video id="sat2scene_video" style="position:absolute;width:90%;max-width:90%;left:5%;opacity:1" muted autoplay loop>
       <source src="assets/sat2scene.mp4" type="video/mp4">Your browser does not support the video tag.
     </video>
-    <img id="sat2scene_teaser" style="position:absolute;width:90%;max-width:90%;left:5%;opacity:1" alt="sat2scene teaser" src="assets/square_placeholder.jpg">
     <script type="text/javascript">
       function sat2scene_start() { 
-        document.getElementById('sat2scene_video').style.opacity = "1";
+        // line-height:0
+        // document.getElementById('sat2scene_video').style.opacity = "1";
         document.getElementById('sat2scene_teaser').style.opacity = "0";
       }
       function sat2scene_stop() { 
-        document.getElementById('sat2scene_video').style.opacity = "0";
+        // document.getElementById('sat2scene_video').style.opacity = "0";
         document.getElementById('sat2scene_teaser').style.opacity = "1";
       }
     </script>
@@ -295,3 +296,19 @@ Switzerland
 </p>
 
 <p align="right">Last update: 21 Jan 2024</p>
+
+<script type="text/javascript">
+  // function setOpacity(elmId, targetOpacity) {
+  //   var i = 0;
+  //   var h1 = document.getElementsByTagName("h1")[0];
+  //   h1.style.opacity = 0;
+  //   var k = window.setInterval(function() {
+  //     if (i >= 10) {
+  //       clearInterval(k);
+  //     } else {
+  //       h1.style.opacity = i / 10;
+  //       i++;
+  //     }
+  //   }, 100);
+  // };
+</script>
