@@ -301,7 +301,7 @@
 
 <tr style="padding:0px">
   <td style="padding:0%;width:85%;vertical-align:middle">
-    Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023S&lerneinheitId=168741&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
+    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167257&semkez=2023S&lang=en">263-5904-00L Deep Learning for Computer Vision: Seminal Work</a>, ETH Zürich
   </td>
   <td style="padding:0%;width:15%;max-width:15%;align:right">
     Spring 2023
@@ -310,7 +310,7 @@
 
 <tr style="padding:0px">
   <td style="padding:0%;width:85%;vertical-align:middle">
-    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=167257&semkez=2023S&lang=en">263-5904-00L Deep Learning for Computer Vision: Seminal Work</a>, ETH Zürich
+    Teaching Assistant, <a target="_blank" href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023S&lerneinheitId=168741&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
   </td>
   <td style="padding:0%;width:15%;max-width:15%;align:right">
     Spring 2023
