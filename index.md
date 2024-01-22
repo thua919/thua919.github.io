@@ -53,19 +53,18 @@
 </tr> -->
 <tr onmouseout="sat2scene_stop()" onmouseover="sat2scene_start()">
   <td style="position:relative;padding:1%;width:20%;max-width:20%;line-height:0;vertical-align:middle">
-    <img id="sat2scene_teaser" style="width:100%;max-width:100%;opacity:1" alt="sat2scene teaser" src="assets/square_placeholder.jpg">
+    <img id="sat2scene_teaser" style="width:100%;max-width:100%" alt="sat2scene teaser" src="assets/square_placeholder.jpg">
     <video id="sat2scene_video" style="position:absolute;width:90%;max-width:90%;left:5%;opacity:0" muted autoplay loop>
       <source src="assets/sat2scene.mp4" type="video/mp4">Your browser does not support the video tag.
     </video>
     <script type="text/javascript">
-      function sat2scene_start() { 
-        // line-height:0
-        document.getElementById('sat2scene_video').style.opacity = "1";
-        // document.getElementById('sat2scene_teaser').style.opacity = "0";
+      function sat2scene_start() {
+        setOpacity("sat2scene_video", 1, 0.1);
+        // document.getElementById('sat2scene_video').style.opacity = "1";
       }
-      function sat2scene_stop() { 
-        document.getElementById('sat2scene_video').style.opacity = "0";
-        // document.getElementById('sat2scene_teaser').style.opacity = "1";
+      function sat2scene_stop() {
+        setOpacity("sat2scene_video", 0, 0.1);
+        // document.getElementById('sat2scene_video').style.opacity = "0";
       }
     </script>
   </td>
@@ -79,7 +78,7 @@
         <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
-      arXiv, 2024 | 
+      arXiv, 2024 &nbsp;/&nbsp; 
       <a target="_blank" href="https://arxiv.org/abs/2401.10786">Paper</a>
       <br>
       Some description.
@@ -126,8 +125,8 @@
         <a target="_blank" href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
         <a target="_blank" href="http://www.cad.zju.edu.cn/home/bao">Hujun Bao</a>. 
       <br>
-      ACM Multimedia 2022 (<strong>Oral</strong>) | 
-      <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> | 
+      ACM Multimedia 2022 (<strong>Oral</strong>) &nbsp;/&nbsp; 
+      <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> &nbsp;/&nbsp; 
       <a target="_blank" href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a>
       <br>
       Some description.
@@ -298,17 +297,24 @@ Switzerland
 <p align="right">Last update: 21 Jan 2024</p>
 
 <script type="text/javascript">
-  // function setOpacity(elmId, targetOpacity) {
-  //   var i = 0;
-  //   var h1 = document.getElementsByTagName("h1")[0];
-  //   h1.style.opacity = 0;
-  //   var k = window.setInterval(function() {
-  //     if (i >= 10) {
-  //       clearInterval(k);
-  //     } else {
-  //       h1.style.opacity = i / 10;
-  //       i++;
-  //     }
-  //   }, 100);
-  // };
+  function setOpacity(elmId, targetOpacity, stepSize) {
+    var stepTimeMs = 100;
+    var elm = document.getElementById(elmId)[0];
+    var currentOpacity = elm.style.opacity;
+    var numSteps = Math.ceil(Math.abs(targetOpacity - currentOpacity) / stepSize);
+    stepSize = Math.abs(stepSize)
+    if (targetOpacity < currentOpacity) {
+      stepSize = -stepSize;
+    }
+    var i = 0;
+    var k = window.setInterval(function() {
+      if (i < (numSteps - 1)) {
+        elm.style.opacity = elm.style.opacity + stepSize;
+        i++;
+      } else {
+        elm.style.opacity = targetOpacity;
+        clearInterval(k);
+      }
+    }, stepTimeMs);
+  };
 </script>
