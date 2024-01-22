@@ -53,6 +53,57 @@
 </tr> -->
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
+<!--     <tbody><tr onmouseout="nicer_stop()" onmouseover="nicer_start()">  
+          <td width="25%">
+            <div class="one">
+            <div class="two" id="nicer_shape" style="opacity: 0;">
+            <video width="160" height="104" muted="" autoplay="" loop="">
+                <source src="media/nicer_teaser.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video></div>
+            <img src="media/nicer_teaser.jpg" width="160" height="104"></div>
+            <script type="text/javascript">
+            function nicer_start() { 
+            document.getElementById('nicer_shape').style.opacity = "1";
+            }
+            function nicer_stop() { 
+            document.getElementById('nicer_shape').style.opacity = "0"; 
+            }
+      nicer_stop()
+            </script>
+            
+          </td>
+          <td valign="top" width="75%">
+              <a href="https://nicer-slam.github.io">
+                <papertitle>
+                  <img src="media/logo_nicer.png" width="20"> NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM
+                </papertitle>
+              </a>
+          <br>
+              <a href="https://zzh2000.github.io">Zihan Zhu</a>*,
+              <strong>Songyou Peng*</strong>,
+              <a href="http://people.inf.ethz.ch/vlarsson/">Viktor Larsson</a>,
+              <a href="https://zhpcui.github.io/"> Zhaopeng Cui</a>,
+              <a href="http://people.inf.ethz.ch/moswald/"> Martin R. Oswald</a>,
+              <a href="https://www.cvlibs.net/">Andreas Geiger</a>,
+              <a href="https://inf.ethz.ch/personal/marc.pollefeys/">Marc Pollefeys</a>
+          <br>
+              <em>International Conference on 3D Vision (<strong>3DV</strong>)</em>, 2024 <strong>(<span style="color:#ff0000;">Oral</span>)</strong>
+          <br>
+            (* equal contribution)
+            <br>
+            <a href="https://arxiv.org/abs/2302.03594">paper</a> |
+            <a href="https://nicer-slam.github.io">project page</a> |
+            <a href="https://youtu.be/H4cOCa3oUno?si=Vp60sexxbZIjwTMH">video</a> |
+            <a href="https://github.com/cvg/nicer-slam">code</a>
+            <p></p>
+            <strong>RGB-only</strong> version of our <a href="https://pengsongyou.github.io/nice-slam">NICE-SLAM</a>, making it NICE<strong>R</strong>.
+            <p></p>
+          </td>
+        </tr>
+
+
+      </tbody> -->
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
