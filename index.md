@@ -59,11 +59,11 @@
     </video>
     <script type="text/javascript">
       function sat2scene_start() {
-        setOpacity("sat2scene_video", 1.0, 0.1, 50);
+        setOpacity("sat2scene_video", 0.99, 0.12, 100);
         // document.getElementById('sat2scene_video').style.opacity = "1";
       }
       function sat2scene_stop() {
-        setOpacity("sat2scene_video", 0.0, 0.1, 50);
+        setOpacity("sat2scene_video", 0.01, 0.12, 100);
         // document.getElementById('sat2scene_video').style.opacity = "0";
       }
     </script>
@@ -305,13 +305,17 @@ Switzerland
     if (targetOpacity < currentOpacity) {
       stepSize = -stepSize;
     }
+    console.log("Step size");
+    console.log(stepSize);
     var i = 0;
     var k = window.setInterval(function() {
       if (i < (numSteps - 1)) {
         elm.style.opacity = elm.style.opacity + stepSize;
+        console.log(elm.style.opacity);
         i++;
       } else {
         elm.style.opacity = targetOpacity;
+        console.log(elm.style.opacity);
         clearInterval(k);
       }
     }, stepTimeMs);
