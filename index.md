@@ -56,7 +56,7 @@
     <video id="sat2scene_video" style="line-height:0;width:100%;max-width:100%;opacity:0" muted autoplay loop>
       <source src="assets/sat2scene.mp4" type="video/mp4">Your browser does not support the video tag.
     </video>
-    <img id="sat2scene_teaser" style="position:absolute;width:80%;max-width:90%;left:5%;opacity:1" alt="sat2scene teaser" src="assets/square_placeholder.jpg">
+    <img id="sat2scene_teaser" style="position:absolute;width:90%;max-width:90%;left:5%;opacity:1" alt="sat2scene teaser" src="assets/square_placeholder.jpg">
     <script type="text/javascript">
       function sat2scene_start() { 
         document.getElementById('sat2scene_video').style.opacity = "1";
