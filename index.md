@@ -52,20 +52,20 @@
   <h1>Research</h1>
 </tr> -->
 <tr onmouseout="sat2scene_stop()" onmouseover="sat2scene_start()">
-  <td style="position:relative;padding:1%;width:20%;max-width:20%;vertical-align:middle">
+  <td style="position:relative;padding:1%;width:20%;max-width:20%;line-height:0;vertical-align:middle">
     <img id="sat2scene_teaser" style="width:100%;max-width:100%;opacity:1" alt="sat2scene teaser" src="assets/square_placeholder.jpg">
-    <video id="sat2scene_video" style="position:absolute;width:90%;max-width:90%;left:5%;opacity:1" muted autoplay loop>
+    <video id="sat2scene_video" style="position:absolute;width:90%;max-width:90%;left:5%;opacity:0" muted autoplay loop>
       <source src="assets/sat2scene.mp4" type="video/mp4">Your browser does not support the video tag.
     </video>
     <script type="text/javascript">
       function sat2scene_start() { 
         // line-height:0
-        // document.getElementById('sat2scene_video').style.opacity = "1";
-        document.getElementById('sat2scene_teaser').style.opacity = "0";
+        document.getElementById('sat2scene_video').style.opacity = "1";
+        // document.getElementById('sat2scene_teaser').style.opacity = "0";
       }
       function sat2scene_stop() { 
-        // document.getElementById('sat2scene_video').style.opacity = "0";
-        document.getElementById('sat2scene_teaser').style.opacity = "1";
+        document.getElementById('sat2scene_video').style.opacity = "0";
+        // document.getElementById('sat2scene_teaser').style.opacity = "1";
       }
     </script>
   </td>
