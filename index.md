@@ -125,7 +125,9 @@
         <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
         <a href="http://www.cad.zju.edu.cn/home/bao">Hujun Bao</a>. 
       <br>
-      ACM Multimedia 2022
+      ACM Multimedia 2022 (Oral) | 
+      <a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> | 
+      <a href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a>
       <br>
       Some description.
     </p>
