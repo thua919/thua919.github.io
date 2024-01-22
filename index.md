@@ -59,11 +59,11 @@
     </video>
     <script type="text/javascript">
       function sat2scene_start() {
-        setOpacity("sat2scene_video", 1, 0.1);
+        setOpacity("sat2scene_video", 1, 0.1, 50);
         // document.getElementById('sat2scene_video').style.opacity = "1";
       }
       function sat2scene_stop() {
-        setOpacity("sat2scene_video", 0, 0.1);
+        setOpacity("sat2scene_video", 0, 0.1, 50);
         // document.getElementById('sat2scene_video').style.opacity = "0";
       }
     </script>
@@ -297,10 +297,9 @@ Switzerland
 <p align="right">Last update: 21 Jan 2024</p>
 
 <script type="text/javascript">
-  function setOpacity(elmId, targetOpacity, stepSize) {
-    var stepTimeMs = 100;
+  function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
     var elm = document.getElementById(elmId);
-    var currentOpacity = elm.style.opacity; // window.getComputedStyle(elm).getPropertyValue("opacity");
+    var currentOpacity = elm.style.opacity;
     var numSteps = Math.ceil(Math.abs(targetOpacity - currentOpacity) / stepSize);
     stepSize = Math.abs(stepSize)
     if (targetOpacity < currentOpacity) {
@@ -309,8 +308,8 @@ Switzerland
     var i = 0;
     var k = window.setInterval(function() {
       if (i < (numSteps - 1)) {
+        elm.style.opacity = elm.style.opacity + stepSize;
         i++;
-        elm.style.opacity = currentOpacity + i * stepSize;
       } else {
         elm.style.opacity = targetOpacity;
         clearInterval(k);
