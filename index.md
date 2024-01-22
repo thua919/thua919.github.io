@@ -6,32 +6,32 @@
       Zuoyue Li - 李 作越
     </h1>
     <p>
-      I am a PhD student in the <a href="https://cvg.ethz.ch">Computer Vision and Geometry (CVG)</a> group 
-      at <a href="https://ethz.ch/en.html">ETH Zurich</a>, 
-      supervised by <a href="https://people.inf.ethz.ch/marc.pollefeys">Prof. Marc Pollefeys</a>. 
+      I am a PhD student in the <a target="_blank" href="https://cvg.ethz.ch">Computer Vision and Geometry (CVG)</a> group 
+      at <a target="_blank" href="https://ethz.ch/en.html">ETH Zurich</a>, 
+      supervised by <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Prof. Marc Pollefeys</a>. 
       My research interests focus on 3D vision and 3D generative models, and I collaborate closely with 
-      <a href="https://people.inf.ethz.ch/moswald">Prof. Martin R. Oswald</a> and <a href="https://zhpcui.github.io">Prof. Zhaopeng Cui</a>. 
-      My doctoral research was mainly funded by the <a href="https://www.datascience.ch">Swiss Data Science Center (SDSC)</a> fellowships.　
+      <a target="_blank" href="https://people.inf.ethz.ch/moswald">Prof. Martin R. Oswald</a> and <a target="_blank" href="https://zhpcui.github.io">Prof. Zhaopeng Cui</a>. 
+      My doctoral research was mainly funded by the <a target="_blank" href="https://www.datascience.ch">Swiss Data Science Center (SDSC)</a> fellowships.　
     </p>
     <p>
-      I am currently a research intern at <a href="https://research.google/locations/zurich">Google Zurich</a>
+      I am currently a research intern at <a target="_blank" href="https://research.google/locations/zurich">Google Zurich</a>
       with a topic on generative AI and digital humans. I was a research engineer intern at 
-      <a href="https://www.metacareers.com/v2/locations/zurich">Meta Zurich</a> with a topic on 3D object detection, 
-      and was an overseas researcher in the <a href="https://www.ut-vision.org/sato-lab">Computer Vision Group</a> at the 
-      <a href="https://www.iis.u-tokyo.ac.jp/en">Institute of Industrial Science (IIS)</a>, 
-      <a href="https://www.u-tokyo.ac.jp/en">The University of Tokyo</a> (東京大学), 
-      supervised by <a href="https://sites.google.com/ut-vision.org/ysato">Prof. Yoichi Sato</a>, 
-      funded by <a href="https://www.jsps.go.jp/english/e-fellow">Japan Society for the Promotion of Science (JSPS)</a> fellowships.　
+      <a target="_blank" href="https://www.metacareers.com/v2/locations/zurich">Meta Zurich</a> with a topic on 3D object detection, 
+      and was an overseas researcher in the <a target="_blank" href="https://www.ut-vision.org/sato-lab">Computer Vision Group</a> at the 
+      <a target="_blank" href="https://www.iis.u-tokyo.ac.jp/en">Institute of Industrial Science (IIS)</a>, 
+      <a target="_blank" href="https://www.u-tokyo.ac.jp/en">The University of Tokyo</a> (東京大学), 
+      supervised by <a target="_blank" href="https://sites.google.com/ut-vision.org/ysato">Prof. Yoichi Sato</a>, 
+      funded by <a target="_blank" href="https://www.jsps.go.jp/english/e-fellow">Japan Society for the Promotion of Science (JSPS)</a> fellowships.　
     </p>
     <p>
-      I obtained my M.Sc. degree in Computer Science with distinction at <a href="https://inf.ethz.ch">ETH Zurich</a>. 
-      I completed my B.Eng. degree in Electronic and Information Engineering as an outstanding graduate at <a href="https://www.zju.edu.cn/english">Zhejiang University</a> (浙江大学).　
+      I obtained my M.Sc. degree in Computer Science with distinction at <a target="_blank" href="https://inf.ethz.ch">ETH Zurich</a>. 
+      I completed my B.Eng. degree in Electronic and Information Engineering as an outstanding graduate at <a target="_blank" href="https://www.zju.edu.cn/english">Zhejiang University</a> (浙江大学).　
     </p>
     <p style="text-align:center">
-      <a href="mailto:li.zuoyue@inf.ethz.ch"> Email</a> &nbsp;/&nbsp;
-      <a href="https://github.com/lizuoyue">GitHub</a> &nbsp;/&nbsp;
-      <a href="https://scholar.google.com/citations?user=UPH0tNgAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
-      <a href="https://www.linkedin.com/in/lizuoyue"> LinkedIn </a>
+      <a target="_blank" href="mailto:li.zuoyue@inf.ethz.ch"> Email</a> &nbsp;/&nbsp;
+      <a target="_blank" href="https://github.com/lizuoyue">GitHub</a> &nbsp;/&nbsp;
+      <a target="_blank" href="https://scholar.google.com/citations?user=UPH0tNgAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+      <a target="_blank" href="https://www.linkedin.com/in/lizuoyue"> LinkedIn </a>
     </p>
   </td>
   <td style="padding:2% 0% 1% 1%;width:38%;max-width:38%">
@@ -73,13 +73,13 @@
       <strong>3D Urban Scene Generation from Satellite Images with Diffusion</strong>
       <br>
         <strong>Zuoyue Li</strong>, 
-        <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
-        <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
-        <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
-        <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
+        <a target="_blank" href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
+        <a target="_blank" href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
       arXiv, 2024 | 
-      <a href="https://arxiv.org/abs/2401.10786">Paper</a>
+      <a target="_blank" href="https://arxiv.org/abs/2401.10786">Paper</a>
       <br>
       Some description.
     </p>
@@ -94,12 +94,12 @@
       <strong>CompNVS: Novel View Synthesis with Scene Completion</strong>
       <br>
         <strong>Zuoyue Li</strong>, 
-        <a href="https://scholar.google.com/citations?user=siv1RXUAAAAJ">Tianxing Fan</a>, 
-        <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
-        <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
-        <a href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>, 
-        <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
-        <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
+        <a target="_blank" href="https://scholar.google.com/citations?user=siv1RXUAAAAJ">Tianxing Fan</a>, 
+        <a target="_blank" href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
+        <a target="_blank" href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a target="_blank" href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
       ECCV 2022
       <br>
@@ -115,19 +115,19 @@
       <p>
       <strong>Factorized and Controllable Neural Re-Rendering of Outdoor Scene for Photo Extrapolation</strong>
       <br>
-        <a href="https://github.com/BoMingZhao">Boming Zhao</a>, 
-        <a href="https://ybbbbt.com">Bangbang Yang</a>, 
-        <a href="https://zhenyangli.github.io">Zhenyang Li</a>, 
+        <a target="_blank" href="https://github.com/BoMingZhao">Boming Zhao</a>, 
+        <a target="_blank" href="https://ybbbbt.com">Bangbang Yang</a>, 
+        <a target="_blank" href="https://zhenyangli.github.io">Zhenyang Li</a>, 
         <strong>Zuoyue Li</strong>, 
-        <a href="http://www.cad.zju.edu.cn/home/gfzhang">Guofeng Zhang</a>, 
-        <a href="https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/jiashu-zhao/index.html">Jiashu Zhao</a>, 
-        <a href="https://www.yindawei.com">Dawei Yin</a>, 
-        <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
-        <a href="http://www.cad.zju.edu.cn/home/bao">Hujun Bao</a>. 
+        <a target="_blank" href="http://www.cad.zju.edu.cn/home/gfzhang">Guofeng Zhang</a>, 
+        <a target="_blank" href="https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/jiashu-zhao/index.html">Jiashu Zhao</a>, 
+        <a target="_blank" href="https://www.yindawei.com">Dawei Yin</a>, 
+        <a target="_blank" href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a target="_blank" href="http://www.cad.zju.edu.cn/home/bao">Hujun Bao</a>. 
       <br>
       ACM Multimedia 2022 (<strong>Oral</strong>) | 
-      <a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> | 
-      <a href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a>
+      <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> | 
+      <a target="_blank" href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a>
       <br>
       Some description.
     </p>
@@ -141,12 +141,12 @@
     <p>
       <strong>NVS-MonoDepth: Improving Monocular Depth Prediction with Novel View Synthesis</strong>
       <br>
-        <a href="https://zuriabauer.com">Zuria Bauer</a>, 
+        <a target="_blank" href="https://zuriabauer.com">Zuria Bauer</a>, 
         <strong>Zuoyue Li</strong>, 
-        <a href="https://cvnet.cpd.ua.es/curriculum-breve/es/orts-escolano-sergio/7775">Sergio Orts Escolano</a>, 
-        <a href="https://cvnet.cpd.ua.es/curriculum-breve/es/cazorla-quevedo-miguel-angel/18333">Miguel Cazorla</a>, 
-        <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
-        <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
+        <a target="_blank" href="https://cvnet.cpd.ua.es/curriculum-breve/es/orts-escolano-sergio/7775">Sergio Orts Escolano</a>, 
+        <a target="_blank" href="https://cvnet.cpd.ua.es/curriculum-breve/es/cazorla-quevedo-miguel-angel/18333">Miguel Cazorla</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
       3DV 2021
       <br>
@@ -163,11 +163,11 @@
       <strong>Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image</strong>
       <br>
         <strong>Zuoyue Li</strong>, 
-        <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
-        <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
-        <a href="https://u.osu.edu/qin.324">Rongjun Qin</a>, 
-        <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
-        <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
+        <a target="_blank" href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
+        <a target="_blank" href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a target="_blank" href="https://u.osu.edu/qin.324">Rongjun Qin</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
       ICCV 2021
       <br>
@@ -183,11 +183,11 @@
       <p>
       <strong>Spatio-Temporal Perturbations for Video Attribution</strong>
       <br>
-        <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
-        <a href="https://wei-min.wang">Weimin Wang</a>, 
+        <a target="_blank" href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
+        <a target="_blank" href="https://wei-min.wang">Weimin Wang</a>, 
         <strong>Zuoyue Li</strong>, 
-        <a href="https://hyf015.github.io">Yifei Huang</a>, 
-        <a href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>. 
+        <a target="_blank" href="https://hyf015.github.io">Yifei Huang</a>, 
+        <a target="_blank" href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>. 
       <br>
       TCSVT 2021
       <br>
@@ -203,11 +203,11 @@
     <p>
       <strong>Towards Visually Explaining Video Understanding Networks with Perturbation</strong>
       <br>
-        <a href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
-        <a href="https://wei-min.wang">Weimin Wang</a>, 
+        <a target="_blank" href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
+        <a target="_blank" href="https://wei-min.wang">Weimin Wang</a>, 
         <strong>Zuoyue Li</strong>, 
-        <a href="https://hyf015.github.io">Yifei Huang</a>, 
-        <a href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>. 
+        <a target="_blank" href="https://hyf015.github.io">Yifei Huang</a>, 
+        <a target="_blank" href="https://sites.google.com/ut-vision.org/ysato">Yoichi Sato</a>. 
       <br>
       WACV 2021
       <br>
@@ -223,12 +223,12 @@
     <p>
       <strong>Geometry-Aware Satellite-to-Ground Image Synthesis for Urban Areas</strong>
       <br>
-        <a href="https://xiaohulugo.github.io">Xiaohu Lu</a>*, 
+        <a target="_blank" href="https://xiaohulugo.github.io">Xiaohu Lu</a>*, 
         <strong>Zuoyue Li</strong>*, 
-        <a href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
-        <a href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>, 
-        <a href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
-        <a href="https://u.osu.edu/qin.324">Rongjun Qin</a>. 
+        <a target="_blank" href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
+        <a target="_blank" href="https://u.osu.edu/qin.324">Rongjun Qin</a>. 
       <br>
       CVPR 2020
       <br>
@@ -245,8 +245,8 @@
       <strong>Topological Map Extraction from Overhead Images</strong>
       <br>
         <strong>Zuoyue Li</strong>, 
-        <a href="https://www.ics.uzh.ch/en/research/research-groups/Jan-Dirk-Wegner.html">Jan Dirk Wegner</a>, 
-        <a href="https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi">Aurelien Lucchi</a>. 
+        <a target="_blank" href="https://www.ics.uzh.ch/en/research/research-groups/Jan-Dirk-Wegner.html">Jan Dirk Wegner</a>, 
+        <a target="_blank" href="https://omls.dmi.unibas.ch/en/persons/aurelien-lucchi">Aurelien Lucchi</a>. 
       <br>
       ICCV 2019
       <br>
