@@ -54,11 +54,11 @@
 <tr onmouseout="sat2scene_stop()" onmouseover="sat2scene_start()">
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <div id="sat2scene_div" style="opacity:0">
-      <video width="" height="" muted="" autoplay="" loop="">
+      <video style="width:100%;max-width:100%" muted="" autoplay="" loop="">
         <source src="assets/sat2scene.mp4" type="video/mp4">Your browser does not support the video tag.
       </video>
     </div>
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+    <img position="absolute" style="width:100%;max-width:100%" alt="sat2scene teaser" src="assets/square_placeholder.jpg">
     <script type="text/javascript">
       function sat2scene_start() { 
         document.getElementById('sat2scene_div').style.opacity = "1";
