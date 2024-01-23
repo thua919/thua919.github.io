@@ -77,8 +77,9 @@
       <br>
       arXiv, 2024 &nbsp;/&nbsp; 
       <a target="_blank" href="https://arxiv.org/abs/2401.10786">Paper</a>
-      <br>
-      Generalize diffusion models to 3D sparse space and perform urban scene generation on the geometry, followed by neural rendering techniques to render arbitrary views with both single-frame quality and inter-frame consistency.
+    </p>
+    <p>
+      Generalize diffusion models to 3D sparse space and perform urban scene generation on a given or predicted geometry, followed by neural rendering techniques to render arbitrary views with both single-frame quality and inter-frame consistency.
     </p>
   </td>
 </tr>
