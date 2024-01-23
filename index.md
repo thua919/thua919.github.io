@@ -59,11 +59,11 @@
     </video>
     <script type="text/javascript">
       function sat2scene_start() {
-        document.getElementById("sat2scene_teaser").play();
+        document.getElementById("sat2scene_video").play();
         // setOpacity("sat2scene_video", 1.0, 0.1, 50);
       }
       function sat2scene_stop() {
-        document.getElementById("sat2scene_teaser").pause();
+        document.getElementById("sat2scene_video").pause();
         // setOpacity("sat2scene_video", 0.0, 0.1, 50);
       }
     </script>
