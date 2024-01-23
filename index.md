@@ -53,16 +53,18 @@
 </tr> -->
 <tr onmouseout="sat2scene_stop()" onmouseover="sat2scene_start()">
   <td style="position:relative;padding:1%;width:20%;max-width:20%;line-height:0;vertical-align:middle">
-    <img id="sat2scene_teaser" style="width:100%;max-width:100%" alt="sat2scene teaser" src="assets/square_placeholder.jpg">
-    <video id="sat2scene_video" style="position:absolute;width:90%;max-width:90%;left:5%;opacity:0" muted autoplay loop>
+<!--     <img id="sat2scene_teaser" style="width:100%;max-width:100%" alt="sat2scene teaser" src="assets/square_placeholder.jpg"> autoplay-->
+    <video id="sat2scene_video" style="position:absolute;width:90%;max-width:90%;left:5%;opacity:1" muted loop>
       <source src="assets/sat2scene.mp4" type="video/mp4">Your browser does not support the video tag.
     </video>
     <script type="text/javascript">
       function sat2scene_start() {
-        setOpacity("sat2scene_video", 1.0, 0.1, 50);
+        document.getElementById("sat2scene_teaser").play();
+        // setOpacity("sat2scene_video", 1.0, 0.1, 50);
       }
       function sat2scene_stop() {
-        setOpacity("sat2scene_video", 0.0, 0.1, 50);
+        document.getElementById("sat2scene_teaser").pause();
+        // setOpacity("sat2scene_video", 0.0, 0.1, 50);
       }
     </script>
   </td>
