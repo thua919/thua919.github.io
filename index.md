@@ -78,7 +78,7 @@
       arXiv, 2024 &nbsp;/&nbsp; 
       <a target="_blank" href="https://arxiv.org/abs/2401.10786">Paper</a>
       <br>
-      Some description.
+      Generalize diffusion models to 3D sparse space and perform urban scene generation on the geometry, followed by neural rendering techniques to render arbitrary views with both single-frame quality and inter-frame consistency.
     </p>
   </td>
 </tr>
@@ -126,8 +126,8 @@
         <a target="_blank" href="http://www.cad.zju.edu.cn/home/bao">Hujun Bao</a>. 
       <br>
       ACM Multimedia 2022 (<strong>Oral</strong>) &nbsp;/&nbsp; 
-      <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> &nbsp;/&nbsp; 
-      <a target="_blank" href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a>
+      <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> <!-- &nbsp;/&nbsp; 
+      <a target="_blank" href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a> -->
       <br>
       Some description.
     </p>
