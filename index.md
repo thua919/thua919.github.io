@@ -249,7 +249,7 @@
 
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/s2g.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
@@ -264,8 +264,9 @@
       <br>
       *Equal contribution. CVPR 2020 &nbsp;/&nbsp; 
       <a target="_blank" href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Geometry-Aware_Satellite-to-Ground_Image_Synthesis_for_Urban_Areas_CVPR_2020_paper.pdf">Paper</a>
-      <br>
-      Some description.
+    </p>
+    <p>
+      Generate panoramic street-view images that are geometrically consistent with a given satellite image via a GAN-based network with the proposed geo-transformation layer that retains the physical satellite-to-ground relation. The synthesized images retain well-articulated and authentic geometric shapes, as well as the texture richness of the street view in various scenarios.
     </p>
   </td>
 </tr>
