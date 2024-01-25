@@ -159,7 +159,7 @@
 
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/nvsmonodep.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
@@ -174,8 +174,9 @@
       <br>
       3DV 2021 &nbsp;/&nbsp; 
       <a target="_blank" href="https://ieeexplore.ieee.org/document/9665820">Paper</a>
-      <br>
-      Some description.
+    </p>
+    <p>
+      Application of novel view synthesis to improve monocular depth estimation, with a wrapping scheme using the estimated depth to an additional viewpoint. The same depth network is applied to the synthesized view and provides another supervision.
     </p>
   </td>
 </tr>
