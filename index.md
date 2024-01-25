@@ -159,6 +159,29 @@
 
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+  </td>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>
+      <strong>Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image</strong>
+      <br>
+        <strong>Zuoyue Li</strong>, 
+        <a target="_blank" href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
+        <a target="_blank" href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a target="_blank" href="https://u.osu.edu/qin.324">Rongjun Qin</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
+        <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
+      <br>
+      ICCV 2021 &nbsp;/&nbsp; 
+      <a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Sat2Vid_Street-View_Panoramic_Video_Synthesis_From_a_Single_Satellite_Image_ICCV_2021_paper.pdf">Paper</a>
+      <br>
+      Some description.
+    </p>
+  </td>
+</tr>
+
+<tr>
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/nvsmonodep.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
@@ -177,29 +200,6 @@
     </p>
     <p>
       Application of novel view synthesis to improve monocular depth estimation, with a wrapping scheme using the estimated depth to an additional viewpoint. The same depth network is applied to the synthesized view and provides another supervision.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
-  </td>
-  <td style="padding:1%;width:80%;max-width:80%">
-    <p>
-      <strong>Sat2Vid: Street-view Panoramic Video Synthesis from a Single Satellite Image</strong>
-      <br>
-        <strong>Zuoyue Li</strong>, 
-        <a target="_blank" href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
-        <a target="_blank" href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
-        <a target="_blank" href="https://u.osu.edu/qin.324">Rongjun Qin</a>, 
-        <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
-        <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
-      <br>
-      ICCV 2021 &nbsp;/&nbsp; 
-      <a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Sat2Vid_Street-View_Panoramic_Video_Synthesis_From_a_Single_Satellite_Image_ICCV_2021_paper.pdf">Paper</a>
-      <br>
-      Some description.
     </p>
   </td>
 </tr>
