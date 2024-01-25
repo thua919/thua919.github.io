@@ -99,7 +99,7 @@
     </script>
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
-      <p>
+    <p>
       <strong>CompNVS: Novel View Synthesis with Scene Completion</strong>
       <br>
         <strong>Zuoyue Li</strong>, 
@@ -112,7 +112,8 @@
       <br>
       ECCV 2022 &nbsp;/&nbsp; 
       <a target="_blank" href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610441.pdf">Paper</a>
-      <br>
+    </p>
+    <p>
       Synthesize novel views from RGB-D images with largely incomplete scene coverage. Perform generation on a sparse grid-based neural representation to complete unobserved scene parts. Extrapolate the missing area and render consistent photorealistic image sequences.
     </p>
   </td>
