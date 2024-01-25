@@ -84,9 +84,19 @@
   </td>
 </tr>
 
-<tr>
+<tr onmouseout="compnvs_stop()" onmouseover="compnvs_start()">
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+    <video id="compnvs_video" style="width:100%;max-width:100%;left:5%;opacity:1" muted loop>
+      <source src="assets/compnvs.mp4" type="video/mp4">Your browser does not support the video tag.
+    </video>
+    <script type="text/javascript">
+      function compnvs_start() {
+        document.getElementById("compnvs_video").play();
+      }
+      function compnvs_stop() {
+        document.getElementById("compnvs_video").pause();
+      }
+    </script>
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
       <p>
