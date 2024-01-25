@@ -6,7 +6,7 @@
       Zuoyue Li - 李 作越
     </h1>
     <p>
-      I am a PhD student in the <a target="_blank" href="https://cvg.ethz.ch">Computer Vision and Geometry (CVG)</a> group 
+      I am a Ph.D. student in the <a target="_blank" href="https://cvg.ethz.ch">Computer Vision and Geometry (CVG)</a> group 
       at <a target="_blank" href="https://ethz.ch/en.html">ETH Zurich</a>, 
       supervised by <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Prof. Marc Pollefeys</a>. 
       My research interests focus on 3D vision and 3D generative models, and I collaborate closely with 
@@ -231,8 +231,9 @@
       <br>
       TCSVT 2021 &nbsp;/&nbsp; 
       <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9435317">Paper</a>
-      <br>
-      Some description.
+      <p>
+        Take extra attention to the evaluation metrics for video attribution methods. Specifically, a new reliability measurement method is proposed, by which the reliable and objective metrics are screened. The effectiveness of the proposed attribution method is extensively investigated by both subjective and objective evaluation, and comparison with multiple significant baseline attribution methods.
+      </p>
     </p>
   </td>
 </tr>
@@ -479,7 +480,7 @@ Universitätstrasse 6<br>
 Switzerland
 </p>
 
-<p align="right">Last update: 21 Jan 2024</p>
+<p align="right">Last update: 25 Jan 2024</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
