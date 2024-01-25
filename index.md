@@ -113,7 +113,7 @@
       ECCV 2022 &nbsp;/&nbsp; 
       <a target="_blank" href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610441.pdf">Paper</a>
       <br>
-      Some description.
+      Synthesize novel views from RGB-D images with largely incomplete scene coverage. Perform generation on a sparse grid-based neural representation to complete unobserved scene parts. Extrapolate the missing area and render consistent photorealistic image sequences.
     </p>
   </td>
 </tr>
