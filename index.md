@@ -157,9 +157,19 @@
   </td>
 </tr>
 
-<tr>
+<tr onmouseout="sat2vid_stop()" onmouseover="sat2vid_start()">
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+    <video id="sat2vid_video" style="width:100%;max-width:100%;left:5%;opacity:1" muted loop>
+      <source src="assets/sat2vid.mp4" type="video/mp4">Your browser does not support the video tag.
+    </video>
+    <script type="text/javascript">
+      function sat2vid_start() {
+        document.getElementById("sat2vid_video").play();
+      }
+      function sat2vid_stop() {
+        document.getElementById("sat2vid_video").pause();
+      }
+    </script>
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
@@ -174,8 +184,9 @@
       <br>
       ICCV 2021 &nbsp;/&nbsp; 
       <a target="_blank" href="https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Sat2Vid_Street-View_Panoramic_Video_Synthesis_From_a_Single_Satellite_Image_ICCV_2021_paper.pdf">Paper</a>
-      <br>
-      Some description.
+    </p>
+    <p>
+      Synthesize both temporally and geometrically consistent street-view panoramic video from a single satellite image and camera trajectory. Explicitly create a 3D point cloud representation of the scene and maintain dense 3D-2D correspondences across frames that reflect the geometric scene configuration inferred from the satellite view. Generation adopts GAN-based methods in the 3D sparse space.
     </p>
   </td>
 </tr>
