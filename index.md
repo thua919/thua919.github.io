@@ -274,7 +274,7 @@
 
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/topo.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
@@ -287,7 +287,9 @@
       ICCV 2019 &nbsp;/&nbsp; 
       <a target="_blank" href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Topological_Map_Extraction_From_Overhead_Images_ICCV_2019_paper.pdf">Paper</a>
       <br>
-      Some description.
+    </p>
+    <p>
+      Circumvent the conventional pixel-wise segmentation of aerial images and predict objects in a vector representation directly. Directly extracts the topological map of a city from overhead images as collections of building footprints and road networks.
     </p>
   </td>
 </tr>
