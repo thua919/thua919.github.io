@@ -217,7 +217,7 @@
 
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/tcsvt.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
       <p>
@@ -239,7 +239,7 @@
 
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/wacv.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
@@ -253,8 +253,9 @@
       <br>
       WACV 2021 &nbsp;/&nbsp; 
       <a target="_blank" href="https://openaccess.thecvf.com/content/WACV2021/papers/Li_Towards_Visually_Explaining_Video_Understanding_Networks_With_Perturbation_WACV_2021_paper.pdf">Paper</a>
-      <br>
-      Some description.
+    </p>
+    <p>
+      Aim to provide an easy-to-use visual explanation method for video understanding networks with diversified structures. Propose a generic perturbation-based visual explanation method, enhanced by a novel spatiotemporal smoothness constraint. The method enables the comparison of explanation results between different video classification networks and avoids generating pathological adversarial explanations for video inputs.
     </p>
   </td>
 </tr>
