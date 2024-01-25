@@ -124,8 +124,8 @@
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
-      <p>
-      <strong>Factorized and Controllable Neural Re-Rendering of Outdoor Scene for Photo Extrapolation</strong>
+    <p>
+      <strong>Factorized and Controllable Neural Re-rendering of Outdoor Scene for Photo Extrapolation</strong>
       <br>
         <a target="_blank" href="https://github.com/BoMingZhao">Boming Zhao</a>, 
         <a target="_blank" href="https://ybbbbt.com">Bangbang Yang</a>, 
@@ -140,8 +140,9 @@
       ACM Multimedia 2022 (<strong>Oral</strong>) &nbsp;/&nbsp; 
       <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> <!-- &nbsp;/&nbsp; 
       <a target="_blank" href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a> -->
-      <br>
-      Some description.
+    </p>
+    <p>
+      Synthesize novel views from RGB-D images with largely incomplete scene coverage. Perform generation on a sparse grid-based neural representation to complete unobserved scene parts. Extrapolate the missing area and render consistent photorealistic image sequences.
     </p>
   </td>
 </tr>
