@@ -119,9 +119,19 @@
   </td>
 </tr>
 
-<tr>
+<tr onmouseout="acmmm_stop()" onmouseover="acmmm_start()">
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+    <video id="acmmm_video" style="width:100%;max-width:100%;left:5%;opacity:1" muted loop>
+      <source src="assets/acmmm.mp4" type="video/mp4">Your browser does not support the video tag.
+    </video>
+    <script type="text/javascript">
+      function acmmm_start() {
+        document.getElementById("acmmm_video").play();
+      }
+      function acmmm_stop() {
+        document.getElementById("acmmm_video").pause();
+      }
+    </script>
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
@@ -142,7 +152,7 @@
       <a target="_blank" href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a> -->
     </p>
     <p>
-      Synthesize novel views from RGB-D images with largely incomplete scene coverage. Perform generation on a sparse grid-based neural representation to complete unobserved scene parts. Extrapolate the missing area and render consistent photorealistic image sequences.
+      Expand tourist photos from a narrow field of view to a wider one while maintaining a similar visual style. Propose factorized neural re-rendering model to produce photorealistic novel views from cluttered outdoor Internet photo collections, which enables applications such as controllable scene re-rendering, photo extrapolation, and 3D photo generation.
     </p>
   </td>
 </tr>
