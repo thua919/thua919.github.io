@@ -75,7 +75,7 @@
         <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
         <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
       <br>
-      arXiv, 2024 &nbsp;/&nbsp; 
+      CVPR 2024 &nbsp;/&nbsp; 
       <a target="_blank" href="https://arxiv.org/abs/2401.10786">Paper</a>
     </p>
     <p>
