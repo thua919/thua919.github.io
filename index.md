@@ -480,7 +480,7 @@ Universitätstrasse 6<br>
 Switzerland
 </p>
 
-<p align="right">Last update: 25 Jan 2024</p>
+<p align="right">Last update: 27 Feb 2024</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
