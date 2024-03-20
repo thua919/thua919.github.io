@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. HKUST(GZ)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me_img.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>East Concourse</p>
