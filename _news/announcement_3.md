@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joining AI 4D City Lab 🉑!
+Joining AI 4D City Lab 🉑 !
