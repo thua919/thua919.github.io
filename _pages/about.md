@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. HKUST(GZ)
+subtitle: 华彤延 #<a href='#'>Affiliations</a>.
 
 profile:
   align: right
   image: me_img.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>East Concourse</p>
-    <p>No.1 Du Xue Rd</p>
+    <p>HKUST(GZ), No.1 Du Xue Rd</p>
     <p>Guangzhou, China</p>
 
 news: true # includes a list of news items
