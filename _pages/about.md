@@ -9,7 +9,7 @@ profile:
   image: me_img.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>HKUST(GZ), No.1 Du Xue Rd</p>
+    <p>HKUST(GZ) </p>
     <p>Guangzhou, China</p>
 
 news: true # includes a list of news items
@@ -17,8 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in the [AI 4D City (AI4City) Labs](https://wufan-zhao.github.io/group/)at HKUST, Guangzhou, supervised by Prof. [Wufan Zhao](https://scholar.google.com/citations?user=SE267o4AAAAJ). My current research interests focus on AI-based 3D vision. I have collaborated with Prof. [Wenming Yang](https://scholar.google.com/citations?user=vsE4nKcAAAAJ&hl=zh-CN) at Tsinghua University and Prof. [Addison Lin Wang](https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=en) at HKUST, working on knowledge distillation and Neural Radiance Fields (NeRF), respectively.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before this, I had extensively explored a wide spectrum of research areas, including biotechnology, operational research, and geography, driven by pure interest. I was also a robotics algorithm engineer at Country Garden Group, focusing on visual SLAM. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I obtained my M.Sc. degree funded by three competitive scholarships at TU Delft and Leiden University. I completed my B.Sc. degree with the highest thesis score at Jiangnan University.
+
