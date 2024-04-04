@@ -73,10 +73,10 @@ I completed my B.Sc. degree with the highest thesis score at
       </strong>
       <br>
         <strong>Tongyan Hua*</strong>, 
-        <strong>Haotian Bai*</strong>, 
-        <strong>Zidong Cao</strong>, 
-        <strong>Ming Liu</strong>, 
-        <strong>Dacheng Tao</strong>, 
+        <a target="_blank" href="https://hbai98.github.io/">Haotian Bai*</a>, 
+        Zidong Cao, 
+        <a target="_blank" href="https://ram-lab.com/people/">Ming Liu</a>,
+      <a target="_blank" href="https://dr.ntu.edu.sg/cris/rp/rp02343">Dacheng Tao</a>,
         <a target="_blank" href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a>.
       <br>
       Pre-print &nbsp;/&nbsp; 
