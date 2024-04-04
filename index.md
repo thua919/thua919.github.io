@@ -43,24 +43,21 @@ I completed my B.Sc. degree with the highest thesis score at
 
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/nvsmonodep.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="fig/cvpr24.png">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
-      <strong>NVS-MonoDepth: Improving Monocular Depth Prediction with Novel View Synthesis</strong>
+      <strong>Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM</strong>
       <br>
-        <a target="_blank" href="https://zuriabauer.com">Zuria Bauer</a>, 
-        <strong>Zuoyue Li</strong>, 
-        <a target="_blank" href="https://cvnet.cpd.ua.es/curriculum-breve/es/orts-escolano-sergio/7775">Sergio Orts Escolano</a>, 
-        <a target="_blank" href="https://cvnet.cpd.ua.es/curriculum-breve/es/cazorla-quevedo-miguel-angel/18333">Miguel Cazorla</a>, 
-        <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
-        <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
+        <strong>Tongyan Hua</strong>, 
+        <a target="_blank" href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a>.
       <br>
-      3DV 2021 &nbsp;/&nbsp; 
-      <a target="_blank" href="https://ieeexplore.ieee.org/document/9665820">Paper</a>
+      CVPR 2024 &nbsp;/&nbsp; 
+      <a target="_blank" href="https://arxiv.org/abs/2403.19473">Paper</a> &nbsp;/&nbsp; 
+      <a target="_blank" href="https://vlis2022.github.io/nerf-slam-benchmark/">Project</a> 
     </p>
     <p>
-      Application of novel view synthesis to improve monocular depth estimation, with a wrapping scheme using the estimated depth to an additional viewpoint. The same depth network is applied to the synthesized view and provides another supervision.
+      Implicit neural representation (INR), in combination with geometric rendering, has recently been employed in real-time dense RGB-D SLAM. In this work, we establish, to our knowledge, the first open-source benchmark framework to evaluate the performance of a wide spectrum of commonly used INRs and rendering functions for mapping and localization. 
     </p>
   </td>
 </tr>
