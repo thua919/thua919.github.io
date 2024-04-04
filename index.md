@@ -74,7 +74,7 @@ I completed my B.Sc. degree with the highest thesis score at
       <br>
         <strong>Tongyan Hua*</strong>, 
         <a target="_blank" href="https://hbai98.github.io/">Haotian Bai*</a>, 
-        Zidong Cao, 
+      <a target="_blank" href="https://caozidong.github.io//">Zidong Cao</a>,
         <a target="_blank" href="https://ram-lab.com/people/">Ming Liu</a>,
       <a target="_blank" href="https://dr.ntu.edu.sg/cris/rp/rp02343">Dacheng Tao</a>,
         <a target="_blank" href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a>.
@@ -91,7 +91,7 @@ I completed my B.Sc. degree with the highest thesis score at
 
 
 
-<tr onmouseout="sat2scene_stop()" onmouseover="sat2scene_start()">
+<!-- <tr onmouseout="sat2scene_stop()" onmouseover="sat2scene_start()">
   <td style="padding:1%;width:20%;max-width:20%;line-height:0;vertical-align:middle">
     <video id="sat2scene_video" style="width:100%;max-width:100%;left:5%;opacity:1" muted loop>
       <source src="assets/sat2scene.mp4" type="video/mp4">Your browser does not support the video tag.
@@ -122,7 +122,7 @@ I completed my B.Sc. degree with the highest thesis score at
       Generalize diffusion models to 3D sparse space and perform urban scene generation on a given or predicted geometry, followed by neural rendering techniques to render arbitrary views with excellence in both single-frame quality and inter-frame consistency.
     </p>
   </td>
-</tr>
+</tr> -->
 
 
 </tbody>
