@@ -29,47 +29,13 @@ I completed my B.Sc. degree with the highest thesis score at
     </p>
   </td>
   <td style="padding:2% 0% 1% 1%;width:38%;max-width:38%">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="fig/me_img.jpg">
   </td>
 </tr>
 </tbody>
 </table>
 
-      
-      I am a Ph.D. student in the <a target="_blank" href="https://cvg.ethz.ch">Computer Vision and Geometry (CVG)</a> group 
-      at <a target="_blank" href="https://ethz.ch/en.html">ETH Zurich</a>, 
-      supervised by <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Prof. Marc Pollefeys</a>. 
-      My research interests focus on 3D vision and 3D generative models, and I collaborate closely with 
-      <a target="_blank" href="https://people.inf.ethz.ch/moswald">Prof. Martin R. Oswald</a> and <a target="_blank" href="https://zhpcui.github.io">Prof. Zhaopeng Cui</a>. 
-      My doctoral research was mainly funded by the <a target="_blank" href="https://www.datascience.ch">Swiss Data Science Center (SDSC)</a> fellowships.　
-    </p>
-    <p>
-      I am currently a research intern at <a target="_blank" href="https://research.google/locations/zurich">Google Zurich</a>
-      with a topic on generative AI and digital humans. I was a research engineer intern at 
-      <a target="_blank" href="https://www.metacareers.com/v2/locations/zurich">Meta Zurich</a> with a topic on 3D object detection, 
-      and was an overseas researcher in the <a target="_blank" href="https://www.ut-vision.org/sato-lab">Computer Vision Group</a> at the 
-      <a target="_blank" href="https://www.iis.u-tokyo.ac.jp/en">Institute of Industrial Science (IIS)</a>, 
-      <a target="_blank" href="https://www.u-tokyo.ac.jp/en">The University of Tokyo</a> (東京大学), 
-      supervised by <a target="_blank" href="https://sites.google.com/ut-vision.org/ysato">Prof. Yoichi Sato</a>, 
-      funded by <a target="_blank" href="https://www.jsps.go.jp/english/e-fellow">Japan Society for the Promotion of Science (JSPS)</a> fellowships.　
-    </p>
-    <p>
-      I obtained my M.Sc. degree in Computer Science with distinction at <a target="_blank" href="https://inf.ethz.ch">ETH Zurich</a>. 
-      I completed my B.Eng. degree in Electronic and Information Engineering as an outstanding graduate at <a target="_blank" href="https://www.zju.edu.cn/english">Zhejiang University</a> (浙江大学).　
-    </p>
-    <p style="text-align:center">
-      <a target="_blank" href="mailto:li.zuoyue@inf.ethz.ch"> Email</a> &nbsp;/&nbsp;
-      <a target="_blank" href="https://github.com/lizuoyue">GitHub</a> &nbsp;/&nbsp;
-      <a target="_blank" href="https://scholar.google.com/citations?user=UPH0tNgAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
-      <a target="_blank" href="https://www.linkedin.com/in/lizuoyue"> LinkedIn </a>
-    </p>
-  </td>
-  <td style="padding:2% 0% 1% 1%;width:38%;max-width:38%">
-    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
-  </td>
-</tr>
-</tbody>
-</table>
+
 
 <!--with Dr. Kripasindhu Sarkar and Dr. Thabo Beeler.-->
 <!--with Dr. Manuel López Antequera and Dr. Yubin Kuang.-->
