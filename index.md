@@ -6,7 +6,7 @@
       Tongyan Hua - 华 彤延
     </h1>
     <p>
-      # <a target="_blank" href=""></a>
+      <!-- <a target="_blank" href=""></a>-->
       I am a Ph.D. student in the <a target="_blank" href="https://wufan-zhao.github.io/group/">AI 4D City (AI4City)</a> Lab
       at HKUST, Guangzhou, supervised by Prof. <a target="_blank" href="https://scholar.google.com/citations?user=SE267o4AAAAJ">Wufan Zhao</a>. 
       My current research interests focus on AI-based 3D computer vision. I have had the honour to collaborate with Prof. 
@@ -35,11 +35,6 @@ I completed my B.Sc. degree with the highest thesis score at
 </tbody>
 </table>
 
-
-
-<!--with Dr. Kripasindhu Sarkar and Dr. Thabo Beeler.-->
-<!--with Dr. Manuel López Antequera and Dr. Yubin Kuang.-->
-<!--with a master's thesis supervised by Prof. Thomas Hoffman.-->
 
 <h1>Research</h1>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -469,14 +464,13 @@ Outstanding Graduates at Zhejiang University, 2015
 
 <h1>Contact</h1>
 <p>
-<strong>Zuoyue Li</strong><br>
-CAB G 85.2<br>
-Universitätstrasse 6<br>
-8092 Zürich<br>
-Switzerland
+<strong>Tongyan Hua</strong><br>
+No.1 Du Xue Rd<br>
+HKUST, Guangzhou<br>
+China
 </p>
 
-<p align="right">Last update: 27 Feb 2024</p>
+<p align="right">Last update: 04 Apr 2024</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
