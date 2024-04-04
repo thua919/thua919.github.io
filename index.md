@@ -24,7 +24,7 @@ I completed my B.Sc. degree with the highest thesis score at
     <p style="text-align:center">
       <a target="_blank" href="mailto:t.hua.msc@outlook.com"> Email</a> &nbsp;/&nbsp;
       <a target="_blank" href="https://github.com/thua919">GitHub</a> &nbsp;/&nbsp;
-      <a target="_blank" href="https://scholar.google.com/citations?user=rUGoZaMAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+      <a target="_blank" href="https://scholar.google.com/citations?user=rUGoZaMAAAAJ">Google Scholar</a>
       <!-- <a target="_blank" href="https://www.linkedin.com/in/lizuoyue"> LinkedIn </a> -->
     </p>
   </td>
