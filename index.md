@@ -3,9 +3,39 @@
 <tr style="padding:0px">
   <td style="padding:1% 1% 1% 0%;width:62%;vertical-align:middle">
     <h1>
-      Zuoyue Li - 李 作越
+      Tongyan Hua - 华 彤延
     </h1>
     <p>
+      # <a target="_blank" href=""></a>
+      I am a Ph.D. student in the <a target="_blank" href="https://wufan-zhao.github.io/group/">AI 4D City (AI4City)</a> Lab
+      at HKUST, Guangzhou, supervised by Prof. <a target="_blank" href="https://scholar.google.com/citations?user=SE267o4AAAAJ">Wufan Zhao</a>. 
+      My current research interests focus on AI-based 3D computer vision. I have had the honour to collaborate with Prof. 
+      <a target="_blank" href="https://scholar.google.com/citations?user=vsE4nKcAAAAJ&hl=zh-CN">Wenming Yang</a> at Tsinghua University and dear Prof. <a target="_blank" href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=en">Addison Lin Wang</a> at HKUST, working on knowledge distillation and Neural Radiance Fields (NeRF), respectively. Before this, I had extensively explored various research areas, including biotechnology, operational research, and geography, driven by pure interest. I was also a robotics algorithm engineer at 
+      <a target="_blank" href="https://en.bgy.com.cn/en/products/construction">Country Garden Group</a>, focusing on visual SLAM for indoor construction robots. 
+    </p>
+    <p>
+I obtained my M.Sc. degree funded by three competitive scholarships at 
+<a target="_blank" href="https://www.tudelft.nl/en/">TU Delft</a> and 
+<a target="_blank" href="https://www.universiteitleiden.nl/en">Leiden University</a>. 
+I completed my B.Sc. degree with the highest thesis score at 
+<a target="_blank" href="https://english.jiangnan.edu.cn/">Jiangnan University</a>.
+
+    </p>   
+    <p style="text-align:center">
+      <a target="_blank" href="mailto:t.hua.msc@outlook.com"> Email</a> &nbsp;/&nbsp;
+      <a target="_blank" href="https://github.com/thua919">GitHub</a> &nbsp;/&nbsp;
+      <a target="_blank" href="https://scholar.google.com/citations?user=rUGoZaMAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+      <!-- <a target="_blank" href="https://www.linkedin.com/in/lizuoyue"> LinkedIn </a> -->
+    </p>
+  </td>
+  <td style="padding:2% 0% 1% 1%;width:38%;max-width:38%">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/self_photo.jpg">
+  </td>
+</tr>
+</tbody>
+</table>
+
+      
       I am a Ph.D. student in the <a target="_blank" href="https://cvg.ethz.ch">Computer Vision and Geometry (CVG)</a> group 
       at <a target="_blank" href="https://ethz.ch/en.html">ETH Zurich</a>, 
       supervised by <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Prof. Marc Pollefeys</a>. 
