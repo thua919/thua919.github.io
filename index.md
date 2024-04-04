@@ -62,11 +62,35 @@ I completed my B.Sc. degree with the highest thesis score at
   </td>
 </tr>
 
+<tr>
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
+  </td>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>
+      <strong>
+        Hi-Map:Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping
+      </strong>
+      <br>
+        <strong>Tongyan Hua*</strong>, 
+        <strong>Haotian Bai*</strong>, 
+        <strong>Zidong Cao</strong>, 
+        <strong>Ming Liu</strong>, 
+        <strong>Dacheng Tao</strong>, 
+        <a target="_blank" href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a>.
+      <br>
+      Pre-print &nbsp;/&nbsp; 
+      <a target="_blank" href="https://arxiv.org/abs/2401.03203">Paper</a> &nbsp;/&nbsp; 
+      <a target="_blank" href="https://vlis2022.github.io/fmap/">Project</a> 
+    </p>
+    <p>
+      In this paper, we introduce Hi-Map, a novel monocular dense mapping approach based on Neural Radiance Field (NeRF). Hi-Map is exceptional in its capacity to achieve efficient and high-fidelity mapping using only posed RGB inputs. 
+    </p>
+  </td>
+</tr>
 
-  
-<!-- <tr style="padding:0px">  
-  <h1>Research</h1>
-</tr> -->
+
+
 <tr onmouseout="sat2scene_stop()" onmouseover="sat2scene_start()">
   <td style="padding:1%;width:20%;max-width:20%;line-height:0;vertical-align:middle">
     <video id="sat2scene_video" style="width:100%;max-width:100%;left:5%;opacity:1" muted loop>
