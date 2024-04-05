@@ -91,7 +91,7 @@ I completed my B.Sc. degree with the highest thesis score at
   </td>
 </tr>-->
 
-<tr onmouseout="acmmm_stop()" onmouseover="acmmm_start()">
+<!-- <tr onmouseout="acmmm_stop()" onmouseover="acmmm_start()">
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <video id="acmmm_video" style="width:100%;max-width:100%;left:5%;opacity:1" muted loop>
       <source src="assets/acmmm.mp4" type="video/mp4">Your browser does not support the video tag.
@@ -127,7 +127,7 @@ I completed my B.Sc. degree with the highest thesis score at
       Expand tourist photos from a narrow field of view to a wider one while maintaining a similar visual style. Propose factorized neural re-rendering model to produce photorealistic novel views from cluttered outdoor Internet photo collections, which enables applications such as controllable scene re-rendering, photo extrapolation, and 3D photo generation.
     </p>
   </td>
-</tr>
+</tr>-->
 
 <tr onmouseout="pre24_stop()" onmouseover="pre24_start()">
   <td style="padding:1%;width:20%;max-width:20%;line-height:0;vertical-align:middle">
