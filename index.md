@@ -36,7 +36,7 @@ I completed my B.Sc. degree with the highest thesis score at
 </table>
 
 
-<h1>Research</h1>
+<h1>Selected Publications</h1>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
 
