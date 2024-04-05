@@ -107,6 +107,7 @@ I completed my B.Sc. degree with the highest thesis score at
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
+      <strong>
       Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping
       </strong>
       <br>
