@@ -158,22 +158,22 @@ YUAN XIANG Scholarship, 2016
 <!-- <h1>Teaching</h1>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-<tbody> -->
+<tbody>
 
-<!-- <tr style="padding:0px">
+<tr style="padding:0px">
   <td style="padding:0%;width:85%;vertical-align:middle">
     Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
   </td>
   <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2024
   </td>
-</tr> -->
+</tr> 
 
 TBD.
 
 </tbody>
 </table>
-
+-->
 
 <h1>Contact</h1>
 <p>
