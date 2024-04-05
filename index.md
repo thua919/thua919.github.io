@@ -91,7 +91,43 @@ I completed my B.Sc. degree with the highest thesis score at
   </td>
 </tr>-->
 
-
+<tr onmouseout="acmmm_stop()" onmouseover="acmmm_start()">
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
+    <video id="acmmm_video" style="width:100%;max-width:100%;left:5%;opacity:1" muted loop>
+      <source src="assets/acmmm.mp4" type="video/mp4">Your browser does not support the video tag.
+    </video>
+    <script type="text/javascript">
+      function acmmm_start() {
+        document.getElementById("acmmm_video").play();
+      }
+      function acmmm_stop() {
+        document.getElementById("acmmm_video").pause();
+      }
+    </script>
+  </td>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>
+      <strong>Factorized and Controllable Neural Re-rendering of Outdoor Scene for Photo Extrapolation</strong>
+      <br>
+        <a target="_blank" href="https://github.com/BoMingZhao">Boming Zhao</a>, 
+        <a target="_blank" href="https://ybbbbt.com">Bangbang Yang</a>, 
+        <a target="_blank" href="https://zhenyangli.github.io">Zhenyang Li</a>, 
+        <strong>Zuoyue Li</strong>, 
+        <a target="_blank" href="http://www.cad.zju.edu.cn/home/gfzhang">Guofeng Zhang</a>, 
+        <a target="_blank" href="https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/jiashu-zhao/index.html">Jiashu Zhao</a>, 
+        <a target="_blank" href="https://www.yindawei.com">Dawei Yin</a>, 
+        <a target="_blank" href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
+        <a target="_blank" href="http://www.cad.zju.edu.cn/home/bao">Hujun Bao</a>. 
+      <br>
+      ACM Multimedia 2022 (<strong>Oral</strong>) &nbsp;/&nbsp; 
+      <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3503161.3548125">Paper</a> <!-- &nbsp;/&nbsp; 
+      <a target="_blank" href="https://zju3dv.github.io/neural_outdoor_rerender">Project page</a> -->
+    </p>
+    <p>
+      Expand tourist photos from a narrow field of view to a wider one while maintaining a similar visual style. Propose factorized neural re-rendering model to produce photorealistic novel views from cluttered outdoor Internet photo collections, which enables applications such as controllable scene re-rendering, photo extrapolation, and 3D photo generation.
+    </p>
+  </td>
+</tr>
 
 <tr onmouseout="pre24_stop()" onmouseover="pre24_start()">
   <td style="padding:1%;width:20%;max-width:20%;line-height:0;vertical-align:middle">
