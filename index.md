@@ -193,10 +193,10 @@ YUAN XIANG Scholarship, 2016
 <!-- <strong>Journal Reviewer</strong>: TPAMI, TGRS. -->
 </p>
 
-<h1>Teaching</h1>
+<!-- <h1>Teaching</h1>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-<tbody>
+<tbody> -->
 
 <!-- <tr style="padding:0px">
   <td style="padding:0%;width:85%;vertical-align:middle">
