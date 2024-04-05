@@ -62,7 +62,9 @@ I completed my B.Sc. degree with the highest thesis score at
   </td>
 </tr>
 
-<tr>
+<!-- <a target="_blank" href=""></a>-->
+
+<!-- <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="assets/square_placeholder.jpg">
   </td>
@@ -87,43 +89,45 @@ I completed my B.Sc. degree with the highest thesis score at
       In this paper, we introduce Hi-Map, a novel monocular dense mapping approach based on Neural Radiance Field (NeRF). Hi-Map is exceptional in its capacity to achieve efficient and high-fidelity mapping using only posed RGB inputs. 
     </p>
   </td>
-</tr>
+</tr>-->
 
 
 
-<!-- <tr onmouseout="sat2scene_stop()" onmouseover="sat2scene_start()">
+<tr onmouseout="pre24_stop()" onmouseover="pre24_start()">
   <td style="padding:1%;width:20%;max-width:20%;line-height:0;vertical-align:middle">
     <video id="sat2scene_video" style="width:100%;max-width:100%;left:5%;opacity:1" muted loop>
-      <source src="assets/sat2scene.mp4" type="video/mp4">Your browser does not support the video tag.
+      <source src="fig/pre24.mp4" type="video/mp4">Your browser does not support the video tag.
     </video>
     <script type="text/javascript">
       function sat2scene_start() {
-        document.getElementById("sat2scene_video").play();
+        document.getElementById("pre24_video").play();
       }
       function sat2scene_stop() {
-        document.getElementById("sat2scene_video").pause();
+        document.getElementById("pre24_video").pause();
       }
     </script>
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
-      <strong>3D Urban Scene Generation from Satellite Images with Diffusion</strong>
+      Hi-Map:Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping
+      </strong>
       <br>
-        <strong>Zuoyue Li</strong>, 
-        <a target="_blank" href="https://www.linkedin.com/in/zhenqiangli">Zhenqiang Li</a>, 
-        <a target="_blank" href="https://zhpcui.github.io">Zhaopeng Cui</a>, 
-        <a target="_blank" href="https://people.inf.ethz.ch/marc.pollefeys">Marc Pollefeys</a>, 
-        <a target="_blank" href="https://people.inf.ethz.ch/moswald">Martin R. Oswald</a>. 
+        <strong>Tongyan Hua*</strong>, 
+        <a target="_blank" href="https://hbai98.github.io/">Haotian Bai*</a>, 
+      <a target="_blank" href="https://caozidong.github.io//">Zidong Cao</a>,
+        <a target="_blank" href="https://ram-lab.com/people/">Ming Liu</a>,
+      <a target="_blank" href="https://dr.ntu.edu.sg/cris/rp/rp02343">Dacheng Tao</a>,
+        <a target="_blank" href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a>.
       <br>
-      CVPR 2024 &nbsp;/&nbsp; 
-      <a target="_blank" href="https://arxiv.org/abs/2401.10786">Paper</a>
+      Pre-print &nbsp;/&nbsp; 
+      <a target="_blank" href="https://arxiv.org/abs/2401.03203">Paper</a> &nbsp;/&nbsp; 
+      <a target="_blank" href="https://vlis2022.github.io/fmap/">Project</a> 
     </p>
     <p>
-      Generalize diffusion models to 3D sparse space and perform urban scene generation on a given or predicted geometry, followed by neural rendering techniques to render arbitrary views with excellence in both single-frame quality and inter-frame consistency.
+      In this paper, we introduce Hi-Map, a novel monocular dense mapping approach based on Neural Radiance Field (NeRF). Hi-Map is exceptional in its capacity to achieve efficient and high-fidelity mapping using only posed RGB inputs. 
     </p>
   </td>
-</tr> -->
-
+</tr> 
 
 </tbody>
 </table>
