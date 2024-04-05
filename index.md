@@ -71,7 +71,7 @@ I completed my B.Sc. degree with the highest thesis score at
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
       <strong>
-        Hi-Map:Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping
+        Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping
       </strong>
       <br>
         <strong>Tongyan Hua*</strong>, 
@@ -95,21 +95,21 @@ I completed my B.Sc. degree with the highest thesis score at
 
 <tr onmouseout="pre24_stop()" onmouseover="pre24_start()">
   <td style="padding:1%;width:20%;max-width:20%;line-height:0;vertical-align:middle">
-    <video id="sat2scene_video" style="width:100%;max-width:100%;left:5%;opacity:1" muted loop>
+    <video id="pre24_video" style="width:100%;max-width:100%;left:5%;opacity:1" muted loop>
       <source src="fig/pre24.mp4" type="video/mp4">Your browser does not support the video tag.
     </video>
     <script type="text/javascript">
-      function sat2scene_start() {
+      function pre24_start() {
         document.getElementById("pre24_video").play();
       }
-      function sat2scene_stop() {
+      function pre24_stop() {
         document.getElementById("pre24_video").pause();
       }
     </script>
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
     <p>
-      Hi-Map:Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping
+      Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping
       </strong>
       <br>
         <strong>Tongyan Hua*</strong>, 
