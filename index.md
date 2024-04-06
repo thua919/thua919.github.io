@@ -37,6 +37,8 @@ I completed my B.Sc. degree with the highest thesis score at
 
 
 <h1>Selected Publications</h1>
+Note that some teasers are GIFs, please hover the mouse over to view the animation.
+
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
 
