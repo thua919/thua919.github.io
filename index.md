@@ -153,7 +153,7 @@ YUAN XIANG Scholarship, 2016
 
 <h1>Academic Service</h1>
 <p>
-<strong>Conference Reviewer</strong>: IROS
+<strong>Conference Reviewer</strong>: IROS 2024
 <!-- <br> -->
 <!-- <strong>Journal Reviewer</strong>: TPAMI, TGRS. -->
 </p>
@@ -172,7 +172,6 @@ YUAN XIANG Scholarship, 2016
   </td>
 </tr> 
 
-TBD.
 
 </tbody>
 </table>
