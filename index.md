@@ -158,14 +158,14 @@ YUAN XIANG Scholarship, 2016
 <!-- <strong>Journal Reviewer</strong>: TPAMI, TGRS. -->
 </p>
 
-<!-- <h1>Teaching</h1>
+<h1>Invited Talk</h1>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
 
 <tr style="padding:0px">
   <td style="padding:0%;width:85%;vertical-align:middle">
-    Teaching Assistant, <a target="_blank" href="https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=178454&semkez=2024S&lang=en">252-0579-00L 3D Vision</a>, ETH Zürich
+    Online Seminar <a target="_blank" href="https://mp.weixin.qq.com/s/7B971dhAjLTE33PkbXNung"> NeRF-SLAM Benchmark </a>, 3D视觉工坊
   </td>
   <td style="padding:0%;width:15%;max-width:15%;text-align:right">
     Spring 2024
@@ -176,7 +176,7 @@ TBD.
 
 </tbody>
 </table>
--->
+
 
 <h1>Contact</h1>
 <p>
@@ -186,7 +186,7 @@ HKUST, Guangzhou<br>
 China
 </p>
 
-<p align="right">Last update: 04 Apr 2024</p>
+<p align="right">Last update: 19 May 2024</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
