@@ -168,7 +168,7 @@ YUAN XIANG Scholarship, 2016
     Online Seminar <a target="_blank" href="https://mp.weixin.qq.com/s/7B971dhAjLTE33PkbXNung"> NeRF-SLAM Benchmark </a>, 3D视觉工坊
   </td>
   <td style="padding:0%;width:15%;max-width:15%;text-align:right">
-    Spring 2024
+    12 May 2024
   </td>
 </tr> 
 
