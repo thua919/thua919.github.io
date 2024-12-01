@@ -154,8 +154,8 @@ YUAN XIANG Scholarship, 2016
 <h1>Academic Service</h1>
 <p>
 <strong>Conference Reviewer</strong>: IROS 2024
-<!-- <br> -->
-<!-- <strong>Journal Reviewer</strong>: TPAMI, TGRS. -->
+<br>
+<strong>Journal Reviewer</strong>: TCSVT
 </p>
 
 <h1>Invited Talk</h1>
@@ -185,7 +185,7 @@ HKUST, Guangzhou<br>
 China
 </p>
 
-<p align="right">Last update: 13 Sep 2024</p>
+<p align="right">Last update: 01 Dec 2024</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
