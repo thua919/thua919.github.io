@@ -153,7 +153,7 @@ YUAN XIANG Scholarship, 2016
 
 <h1>Academic Service</h1>
 <p>
-<strong>Conference Reviewer</strong>: IROS 2024
+<strong>Conference Reviewer</strong>: IROS 2024, ICCV 2025
 <br>
 <strong>Journal Reviewer</strong>: TCSVT
 </p>
