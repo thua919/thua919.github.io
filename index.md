@@ -153,7 +153,7 @@ YUAN XIANG Scholarship, 2016
 
 <h1>Academic Service</h1>
 <p>
-<strong>Conference Reviewer</strong>: IROS 2024, ICCV 2025
+<strong>Conference Reviewer</strong>: IROS 2024, ICCV 2025, NeurIPS 2025
 <br>
 <strong>Journal Reviewer</strong>: TCSVT
 </p>
@@ -185,7 +185,7 @@ HKUST, Guangzhou<br>
 China
 </p>
 
-<p align="right">Last update: 01 Dec 2024</p>
+<p align="right">Last update: 20 May 2025</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
