@@ -211,7 +211,7 @@ HKUST, Guangzhou<br>
 China
 </p>
 
-<p align="right">Last update: 20 May 2025</p>
+<p align="right">Last update: 8 July 2025</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
