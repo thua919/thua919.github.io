@@ -42,6 +42,32 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
 
+<tr>
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="fig/iccv25.png">
+  </td>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>
+      <strong>Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion</strong>
+      <br>
+        <strong>Tongyan Hua</strong>, 
+        <a target="_blank" href="https://lutao2021.github.io/">Lutao Jiang</a>,
+      <a target="_blank" href="https://www.yingcong.me/">Ying-Cong Chen</a>,
+      <a target="_blank" href="https://wufan-zhao.github.io/">Wufan Zhao</a>,
+      <br>
+      ICCV 2025 &nbsp;/&nbsp; 
+      <a target="_blank" href="https://arxiv.org/abs/2507.04403">Paper</a> &nbsp;/&nbsp; 
+      <a target="_blank" href="https://ai4city-hkust.github.io/Sat2City/">Project</a> 
+    </p>
+    <p>
+      We propose Sat2City, a novel framework that synergizes the representational capacity of sparse voxel grids with latent diffusion models, tailored specifically for our novel 3D city dataset.
+    </p>
+  </td>
+</tr>
+
+
+
+
 
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
