@@ -160,30 +160,15 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
 </table>
 
 
-<h1>Awards</h1>
-<p>
-<!-- <a target="_blank" href="https://www.datascience.ch/phd-fellows">Swiss Data Science Center (SDSC) Fellowship</a>, 2019 -->
-Leiden Science China (LSC) scholarship, 2018
-<br>
-Leiden Science China (LSC) scholarship, 2017
-<br>
-China Scholarship Council (CSC) Scholarship, 2017
-<br>
-Academic Honoured Scholarship, 2016
-<br>
-AMANO Scholarship, 2016
-<br>
-YUAN XIANG Scholarship, 2016
-</p>
-
 
 <h1>Academic Service</h1>
 <p>
-<strong>Conference Reviewer</strong>: IROS 2024, ICCV 2025, NeurIPS 2025
+<strong>Conference Reviewer</strong>: IROS 2024, ICCV 2025, NeurIPS 2025; CVPR 2026
 <br>
 <strong>Journal Reviewer</strong>: TCSVT
 </p>
 
+<!-- 
 <h1>Invited Talk</h1>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -197,7 +182,7 @@ YUAN XIANG Scholarship, 2016
     12 May 2024
   </td>
 </tr> 
-
+-->
 
 </tbody>
 </table>
