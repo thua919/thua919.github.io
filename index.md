@@ -182,11 +182,11 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
     12 May 2024
   </td>
 </tr> 
--->
+
 
 </tbody>
 </table>
-
+-->
 
 <h1>Contact</h1>
 <p>
@@ -196,7 +196,7 @@ HKUST, Guangzhou<br>
 China
 </p>
 
-<p align="right">Last update: 8 July 2025</p>
+<p align="right">Last update: 21 Oct 2025</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
