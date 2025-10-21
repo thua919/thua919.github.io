@@ -8,7 +8,7 @@
     <p>
       <!-- <a target="_blank" href=""></a>-->
       I am a Ph.D. student in the <a target="_blank" href="http://www.ai4dcity.com/research/">AI 4D City (AI4City)</a> Lab
-      at HKUST, Guangzhou, supervised by Prof. <a target="_blank" href="https://wufan-zhao.github.io/">Wufan Zhao</a> and Prof. <a target="_blank" href="https://www.yingcong.me/">Ying-Cong Chen</a>. 
+      at HKUST, Guangzhou, supervised by Prof. <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=SE267o4AAAAJ&view_op=list_works&sortby=pubdate">Wufan Zhao</a> and Prof. <a target="_blank" href="https://www.yingcong.me/">Ying-Cong Chen</a>. 
       My current research interests focus on AI-based 3D computer vision. I have had the honour to collaborate with Prof. 
       <a target="_blank" href="https://scholar.google.com/citations?user=vsE4nKcAAAAJ&hl=zh-CN">Wenming Yang</a> at Tsinghua University and dear Prof. <a target="_blank" href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=en">Addison Lin Wang</a> at NTU, Singapore, working on knowledge distillation and Neural Radiance Fields (NeRF), respectively. Before this, I had extensively explored various research areas, including biotechnology, operational research, and geography, driven by pure interest. I was also a robotics algorithm engineer at 
       <a target="_blank" href="https://en.bgy.com.cn/en/products/construction">Country Garden Group</a>, focusing on visual SLAM for indoor construction robots. 
