@@ -78,7 +78,7 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
       <strong>Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM</strong>
       <br>
         <strong>Tongyan Hua</strong>, 
-        <a target="_blank" href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a>.
+        <a target="_blank" href="https://dr.ntu.edu.sg/entities/person/Lin-Wang">Lin Wang</a>.
       <br>
       CVPR 2024 &nbsp;/&nbsp; 
       <a target="_blank" href="https://arxiv.org/abs/2403.19473">Paper</a> &nbsp;/&nbsp; 
@@ -107,7 +107,7 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
       <a target="_blank" href="https://caozidong.github.io//">Zidong Cao</a>,
         <a target="_blank" href="https://ram-lab.com/people/">Ming Liu</a>,
       <a target="_blank" href="https://dr.ntu.edu.sg/cris/rp/rp02343">Dacheng Tao</a>,
-        <a target="_blank" href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a>.
+        <a target="_blank" href="https://dr.ntu.edu.sg/entities/person/Lin-Wang">Lin Wang</a>.
       <br>
       Pre-print &nbsp;/&nbsp; 
       <a target="_blank" href="https://arxiv.org/abs/2401.03203">Paper</a> &nbsp;/&nbsp; 
@@ -144,7 +144,7 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
       <a target="_blank" href="https://caozidong.github.io//">Zidong Cao</a>,
         <a target="_blank" href="https://ram-lab.com/people/">Ming Liu</a>,
       <a target="_blank" href="https://dr.ntu.edu.sg/cris/rp/rp02343">Dacheng Tao</a>,
-        <a target="_blank" href="https://vlislab22.github.io/vlislab/linwang.html">Lin Wang</a>.
+        <a target="_blank" href="[https://dr.ntu.edu.sg/entities/person/Lin-Wang">Lin Wang</a>.
       <br>
       Pre-print &nbsp;/&nbsp; 
       <a target="_blank" href="https://arxiv.org/abs/2401.03203">Paper</a> &nbsp;/&nbsp; 
