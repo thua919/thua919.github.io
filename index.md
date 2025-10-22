@@ -53,7 +53,7 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
         <strong>Tongyan Hua</strong>, 
         <a target="_blank" href="https://lutao2021.github.io/">Lutao Jiang</a>,
       <a target="_blank" href="https://www.yingcong.me/">Ying-Cong Chen</a>,
-      <a target="_blank" href="http://www.ai4dcity.com/">Wufan Zhao</a>,
+      <a target="_blank" href="http://www.ai4dcity.com/">Wufan Zhao</a>.
       <br>
       ICCV 2025 &nbsp;/&nbsp; 
       <a target="_blank" href="https://arxiv.org/abs/2507.04403">Paper</a> &nbsp;/&nbsp; 
