@@ -44,6 +44,33 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
 
 <tr>
   <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
+    <img style="width:100%;max-width:100%" alt="profile photo" src="fig/cvpr2026.png">
+  </td>
+  <td style="padding:1%;width:80%;max-width:80%">
+    <p>
+      <strong>BuildAnyPoint: 3D Building Structured Abstraction from Diverse Point Clouds</strong>
+      <br>
+        <strong>Tongyan Hua</strong>, 
+      <a target="_blank" href="https://ranhaogong.github.io/">Haoran Gong</a>,
+      <a target="_blank" href="https://liuyuan-pal.github.io/">Yuan Liu </a>,
+      <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=YDTW8wgAAAAJ&view_op=list_works&sortby=pubdate">Di Wang</a>,
+      <a target="_blank" href="https://www.yingcong.me/">Ying-Cong Chen</a>,
+      <a target="_blank" href="http://www.ai4dcity.com/">Wufan Zhao</a>.
+      <br>
+      CVPR 2026 &nbsp;/&nbsp; 
+      <a target="_blank" href="https://arxiv.org/abs/2602.23645">Paper</a> &nbsp;/&nbsp; 
+      <a target="_blank" href="https://ai4city-hkust.github.io/BuildAnyPoint/">Project</a> 
+    </p>
+    <p>
+      BuildAnyPoint showcases remarkable generalization across various point cloud distributions commonly found in urban settings.       We are the first to tame Artist-Mesh (AM) generation models for severely disturbed input point clouds commonly encountered 
+      in large-scale urban observations 
+    </p>
+  </td>
+</tr>
+
+
+<tr>
+  <td style="padding:1%;width:20%;max-width:20%;vertical-align:middle">
     <img style="width:100%;max-width:100%" alt="profile photo" src="fig/iccv25.png">
   </td>
   <td style="padding:1%;width:80%;max-width:80%">
@@ -163,7 +190,7 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
 
 <h1>Academic Service</h1>
 <p>
-<strong>Conference Reviewer</strong>: IROS 2024, ICCV 2025, NeurIPS 2025; CVPR 2026
+<strong>Conference Reviewer</strong>: IROS 2024, ICCV 2025, NeurIPS 2025; CVPR 2026; ECCV 2026
 <br>
 <strong>Journal Reviewer</strong>: TCSVT
 </p>
