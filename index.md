@@ -50,8 +50,8 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
     <p>
       <strong>BuildAnyPoint: 3D Building Structured Abstraction from Diverse Point Clouds</strong>
       <br>
-        <strong>Tongyan Hua</strong>, 
-      <a target="_blank" href="https://ranhaogong.github.io/">Haoran Gong</a>,
+        <strong>Tongyan Hua†</strong>, 
+      <a target="_blank" href="https://ranhaogong.github.io/">Haoran Gong†</a>,
       <a target="_blank" href="https://liuyuan-pal.github.io/">Yuan Liu </a>,
       <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=YDTW8wgAAAAJ&view_op=list_works&sortby=pubdate">Di Wang</a>,
       <a target="_blank" href="https://www.yingcong.me/">Ying-Cong Chen</a>,
