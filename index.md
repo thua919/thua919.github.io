@@ -63,7 +63,7 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
     </p>
     <p>
       BuildAnyPoint showcases remarkable generalization across various point cloud distributions commonly found in urban settings.       We are the first to tame Artist-Mesh (AM) generation models for severely disturbed input point clouds commonly encountered 
-      in large-scale urban observations 
+      in large-scale urban observations.
     </p>
   </td>
 </tr>
