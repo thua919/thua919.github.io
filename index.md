@@ -190,7 +190,7 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
 
 <h1>Academic Service</h1>
 <p>
-<strong>Conference Reviewer</strong>: IROS 2024, ICCV 2025, NeurIPS 2025; CVPR 2026; ECCV 2026; BMVC 2026; NeurIPS 2026
+<strong>Conference Reviewer</strong>: IROS 2024, ICCV 2025, NeurIPS 2025; CVPR 2026; ECCV 2026; BMVC 2026; NeurIPS 2026(declined)
 <br>
 <strong>Journal Reviewer</strong>: TCSVT
 </p>
