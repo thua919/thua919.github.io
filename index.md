@@ -36,6 +36,18 @@ I completed my B.Sc. degree with the highest thesis score at
 </table>
 
 
+<h1>News</h1>
+<p>
+  [2026-06-24] <a target="_blank" href="https://ai4city-hkust.github.io/Sat2City-v2/">Sat2City v2</a> pre-print is now online.
+  <br>
+  [2026-06-18] <strong>3</strong> papers were accepted to ECCV 2026. 🎉
+  <br>
+  [2026-05-26] Won <strong>2nd</strong> place in the <a target="_blank" href="https://huggingface.co/spaces/BuildingWorld/BuildingWorldChallenge">Building3D Competition</a> at CVPR 2026. 🎉
+  <br>
+  [2026-05-14] Our deployed product demo is now available on the <a target="_blank" href="https://store.picoxr.com/cn/detail/1/7598163613945413668">PICO Store</a>. Introduction videos: <a target="_blank" href="https://www.bilibili.com/video/BV1gr5Q6TEie/?share_source=copy_web&amp;vd_source=4f04faf289f02e864076b06823a34a21">[1]</a> <a target="_blank" href="https://www.bilibili.com/video/BV1y7EA6AERS/?share_source=copy_web&amp;vd_source=4f04faf289f02e864076b06823a34a21">[2]</a>.
+</p>
+
+
 <h1>Selected Publications</h1>
 Note that some teasers are GIFs, please hover the mouse over to view the animation.
 
@@ -190,7 +202,7 @@ Note that some teasers are GIFs, please hover the mouse over to view the animati
 
 <h1>Academic Service</h1>
 <p>
-<strong>Conference Reviewer</strong>: IROS 2024, ICCV 2025, NeurIPS 2025; CVPR 2026; ECCV 2026; BMVC 2026; NeurIPS 2026(declined)
+<strong>Conference Reviewer</strong>: IROS 2024, ICCV 2025, NeurIPS 2025; CVPR 2026; ECCV 2026; BMVC 2026; NeurIPS 2026
 <br>
 <strong>Journal Reviewer</strong>: TCSVT
 </p>
@@ -223,7 +235,7 @@ HKUST, Guangzhou<br>
 China
 </p>
 
-<p align="right">Last update: 2 March 2026</p>
+<p align="right">Last update: 28 June 2026</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
