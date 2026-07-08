@@ -38,6 +38,8 @@ I completed my B.Sc. degree with the highest thesis score at
 
 <h1>News</h1>
 <p>
+  [2026-07-08] I joined the <a target="_blank" href="https://xiuyuliang.cn/">ENDLESS Lab</a> at Westlake University, supervised by Prof. <a target="_blank" href="https://xiuyuliang.cn/">Yuliang Xiu</a> (修宇亮). ✨
+  <br>
   [2026-06-24] <a target="_blank" href="https://ai4city-hkust.github.io/Sat2City-v2/">Sat2City v2</a> pre-print is now online.
   <br>
   [2026-06-18] <strong>3</strong> papers were accepted to ECCV 2026. 🎉
@@ -235,7 +237,7 @@ HKUST, Guangzhou<br>
 China
 </p>
 
-<p align="right">Last update: 28 June 2026</p>
+<p align="right">Last update: 8 July 2026</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
