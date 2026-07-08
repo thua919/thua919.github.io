@@ -38,7 +38,7 @@ I completed my B.Sc. degree with the highest thesis score at
 
 <h1>News</h1>
 <p>
-  [2026-07-08] I joined the <a target="_blank" href="https://xiuyuliang.cn/">ENDLESS Lab</a> at Westlake University, supervised by Prof. <a target="_blank" href="https://xiuyuliang.cn/">Yuliang Xiu</a> (修宇亮). ✨
+  [2026-07-08] I joined the <a target="_blank" href="https://xiuyuliang.cn/">ENDLESS Lab</a> at Westlake University as a visiting student, supervised by Prof. Yuliang Xiu (修宇亮). ✨
   <br>
   [2026-06-24] <a target="_blank" href="https://ai4city-hkust.github.io/Sat2City-v2/">Sat2City v2</a> pre-print is now online.
   <br>
