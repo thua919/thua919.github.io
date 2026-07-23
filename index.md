@@ -38,7 +38,7 @@ I completed my B.Sc. degree with the highest thesis score at
 
 <h1>News</h1>
 <p>
-  [2026-07-20] SkyAnchor was accepted to SIGGRAPH Asia 2026. 🎉
+  [2026-07-20] <strong>1</strong> paper was accepted to SIGGRAPH Asia 2026. 🎉
   <br>
   [2026-07-08] I joined the <a target="_blank" href="https://xiuyuliang.cn/">ENDLESS Lab</a> at Westlake University as a visiting student, supervised by Prof. Yuliang Xiu (修宇亮). ✨
   <br>
@@ -50,7 +50,7 @@ I completed my B.Sc. degree with the highest thesis score at
   <br>
   [2026-05-14] Our deployed product demo is now available on the <a target="_blank" href="https://store.picoxr.com/cn/detail/1/7598163613945413668">PICO Store</a>. Introduction videos: <a target="_blank" href="https://www.bilibili.com/video/BV1gr5Q6TEie/?share_source=copy_web&amp;vd_source=4f04faf289f02e864076b06823a34a21">[1]</a> <a target="_blank" href="https://www.bilibili.com/video/BV1y7EA6AERS/?share_source=copy_web&amp;vd_source=4f04faf289f02e864076b06823a34a21">[2]</a>.
   <br>
-  [2026-01-26] <a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=rUGoZaMAAAAJ&amp;sortby=pubdate&amp;citation_for_view=rUGoZaMAAAAJ:YsMSGLbcyi4C">SkyEvents</a> was accepted to ICLR 2026. 🎉
+  [2026-01-26] <a target="_blank" href="https://openreview.net/forum?id=dxHPqQindP">SkyEvents</a> was accepted to ICLR 2026. 🎉
 </p>
 
 
