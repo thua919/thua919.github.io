@@ -8,7 +8,7 @@
     <p>
       <!-- <a target="_blank" href=""></a>-->
       I am a Ph.D. student in the <a target="_blank" href="http://www.ai4dcity.com/">AI 4D City (AI4City)</a> Lab
-      at HKUST, Guangzhou, supervised by Prof. <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=SE267o4AAAAJ&view_op=list_works&sortby=pubdate">Wufan Zhao</a>, Prof. <a target="_blank" href="https://www.yingcong.me/">Ying-Cong Chen</a> and Prof. <a target="_blank" href="https://liuyuan-pal.github.io/">Yuan Liu</a>. 
+      at HKUST, Guangzhou, supervised by Prof. <a target="_blank" href="https://scholar.google.com/citations?hl=en&user=SE267o4AAAAJ&view_op=list_works&sortby=pubdate">Wufan Zhao</a> and Prof. <a target="_blank" href="https://www.yingcong.me/">Ying-Cong Chen</a>.
       My current research interests focus on AI-based 3D computer vision. I have had the honour to collaborate with Prof. 
       <a target="_blank" href="https://scholar.google.com/citations?user=vsE4nKcAAAAJ&hl=zh-CN">Wenming Yang</a> at Tsinghua University and dear Prof. <a target="_blank" href="https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=en">Addison Lin Wang</a> at NTU, Singapore, working on knowledge distillation and Neural Radiance Fields (NeRF), respectively. Before this, I had extensively explored various research areas, including biotechnology, operational research, and geography, driven by pure interest. I was also a robotics algorithm engineer at 
       <a target="_blank" href="https://en.bgy.com.cn/en/products/construction">Country Garden Group</a>, focusing on visual SLAM for indoor construction robots. 
@@ -38,6 +38,8 @@ I completed my B.Sc. degree with the highest thesis score at
 
 <h1>News</h1>
 <p>
+  [2026-07-20] SkyAnchor was accepted to SIGGRAPH Asia 2026. 🎉
+  <br>
   [2026-07-08] I joined the <a target="_blank" href="https://xiuyuliang.cn/">ENDLESS Lab</a> at Westlake University as a visiting student, supervised by Prof. Yuliang Xiu (修宇亮). ✨
   <br>
   [2026-06-24] <a target="_blank" href="https://ai4city-hkust.github.io/Sat2City-v2/">Sat2City v2</a> pre-print is now online.
@@ -47,6 +49,8 @@ I completed my B.Sc. degree with the highest thesis score at
   [2026-05-26] Won <strong>2nd</strong> place in the <a target="_blank" href="https://huggingface.co/spaces/BuildingWorld/BuildingWorldChallenge">Building3D Competition</a> at CVPR 2026. 🎉
   <br>
   [2026-05-14] Our deployed product demo is now available on the <a target="_blank" href="https://store.picoxr.com/cn/detail/1/7598163613945413668">PICO Store</a>. Introduction videos: <a target="_blank" href="https://www.bilibili.com/video/BV1gr5Q6TEie/?share_source=copy_web&amp;vd_source=4f04faf289f02e864076b06823a34a21">[1]</a> <a target="_blank" href="https://www.bilibili.com/video/BV1y7EA6AERS/?share_source=copy_web&amp;vd_source=4f04faf289f02e864076b06823a34a21">[2]</a>.
+  <br>
+  [2026-01-26] <a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=rUGoZaMAAAAJ&amp;sortby=pubdate&amp;citation_for_view=rUGoZaMAAAAJ:YsMSGLbcyi4C">SkyEvents</a> was accepted to ICLR 2026. 🎉
 </p>
 
 
@@ -237,7 +241,7 @@ HKUST, Guangzhou<br>
 China
 </p>
 
-<p align="right">Last update: 8 July 2026</p>
+<p align="right">Last update: 23 July 2026</p>
 
 <script type="text/javascript">
   function setOpacity(elmId, targetOpacity, stepSize, stepTimeMs) {
